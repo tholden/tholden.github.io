@@ -13,20 +13,82 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+
+# Theme Settings
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-GB"
+title                    : "Dr Tom Holden"
+title_separator          : "-"
+subtitle                 : "Researcher in Macroeconomics at the Deutsche Bundesbank."
+name:                    : "Dr Tom Holden"
+email                    : "thomas.holden@gmail.com"
+description              : "Personal homepage of Dr Tom Holden, Researcher in Macroeconomics at the Deutsche Bundesbank."
+url                      : "https://tholden.github.io"
+repository               : "tholden/tholden.github.io"
+teaser                   : "/assets/images/salt/500x300.jpg"
+logo                     : "/assets/images/bio-photo/88x88.jpg"
+masthead_title           : "Dr Tom Holden"
+breadcrumbs              : false
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "tholden" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+search                   : true
+search_full_content      : true
+search_provider          : lunr # lunr (default), algolia, google
+
+# SEO Related
+google_site_verification : "Sh3qnfBK_eOHWjLxX3DNiWaz5hP-YhH5FA8I4mmB54s"
+
+# Social Sharing
+twitter:
+  username               : "t_holden"
+facebook:
+  username               : "tom.holden"
+twitter_username         : "t_holden"
+github_username          : "tholden"
+og_image                 : "/assets/images/bio-photo/200x200.jpg"
+social:
+  links: # An array of links to social media profiles
+    - "https://orcid.org/0000-0002-6233-7990"
+    - "https://ideas.repec.org/f/pho254.html"
+    - "https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en"
+    - "https://twitter.com/t_holden"
+    - "https://www.linkedin.com/in/tomholden/"
+    - "https://www.facebook.com/tom.holden/"
+    - "https://www.instagram.com/tom_d_holden/"
+    
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "UA-19134877-1"
+
+# Site Author
+author:
+  name   : "Tom Holden"
+  avatar : "/assets/images/bio-photo/200x200.jpg"
+  bio    : "Researcher in Macroeconomics at the Deutsche Bundesbank.\nFormerly a lecturer (AP) at the University of Surrey.\nDPhil University of Oxford, 2013.\n\nThe views expressed on this website are the private views of Tom Holden and do not represent the views of the Deutsche Bundesbank, the Eurosystem or its staff."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,23 +119,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
@@ -95,7 +141,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
