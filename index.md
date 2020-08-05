@@ -4,13 +4,13 @@ layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/header.jpg
   actions:
     - label: "Download CV"
       url: "/assets/files/cv.pdf"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil University of Oxford, 2013.\n\nWorking on: theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
+excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil University of Oxford, 2013.\n\nWorking on\n\n  * theoretical and applied macroeconomics,\n\n  * monetary economics,\n\n  * dynamic stochastic general equilibrium (DSGE) modelling,\n\n  * and other fields."
 intro:
   - image_path: "assets/images/salt/500x300.jpg"
   - excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil University of Oxford, 2013.\n\nWorking on: theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
