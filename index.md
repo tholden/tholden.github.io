@@ -1,5 +1,5 @@
 ---
-title: '<span style="background-color: #000; opacity: 0.5;">Dr Tom D. Holden</span>'
+title: "<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Dr Tom D. Holden</span>"
 layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -10,7 +10,7 @@ header:
     - label: "Download CV"
       url: "/assets/files/cv.pdf"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013.\n\nWorking on:\n\n  * theoretical and applied macroeconomics,\n\n  * monetary economics,\n\n  * dynamic stochastic general equilibrium (DSGE) modelling,\n\n  * and other fields."
+excerpt: "<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Researcher and macroeconomist in the Deutsche Bundesbank's research department.</span>\n\n<span style=\u0022background-color: #000; opacity: 0.5;\u0022>DPhil (PhD) University of Oxford, 2013.</span>\n\n<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Working on:</span>\n\n  * <span style=\u0022background-color: #000; opacity: 0.5;\u0022>theoretical and applied macroeconomics,</span>\n\n  * <span style=\u0022background-color: #000; opacity: 0.5;\u0022>monetary economics,</span>\n\n  * <span style=\u0022background-color: #000; opacity: 0.5;\u0022>dynamic stochastic general equilibrium (DSGE) modelling,</span>\n\n  * <span style=\u0022background-color: #000; opacity: 0.5;\u0022>and other fields.</span>"
 intro:
   - image_path: "assets/images/salt/500x300.jpg"
   - excerpt: "## Publications"
