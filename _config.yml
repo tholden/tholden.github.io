@@ -124,6 +124,7 @@ author:
       url:  "https://www.youtube.com/user/seaephpea"
 
 footer:
+  disclaimer: "The views expressed on this website are the private views of Tom Holden and do not represent the views of the Deutsche Bundesbank, the Eurosystem or its staff."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
