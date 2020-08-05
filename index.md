@@ -11,7 +11,8 @@ header:
       url: "/assets/files/cv.pdf"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil University of Oxford, 2013.\n\nWorking on: theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
-intro: 
+intro:
+  - image_path: "assets/images/salt/500x300.jpg"
   - excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil University of Oxford, 2013.\n\nWorking on: theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
