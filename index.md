@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Dr Tom Holden"
 layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -7,12 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/salt/500x300.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Download CV"
+      url: "/assets/files/cv.pdf"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Researcher in Macroeconomics at the Deutsche Bundesbank.\n\nFormerly a lecturer (AP) at the University of Surrey.\n\nDPhil University of Oxford, 2013.\n\nWorking on theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: "Researcher in Macroeconomics at the Deutsche Bundesbank.\n\nFormerly a lecturer (AP) at the University of Surrey.\n\nDPhil University of Oxford, 2013.\n\nWorking on theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
