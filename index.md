@@ -12,12 +12,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "**Researcher** and **macroeconomist** in the Deutsche **Bundesbank**'s research department."
 intro: 
-  - excerpt: |
-    **Researcher** and **macroeconomist** in the Deutsche **Bundesbank**'s research department.
-  
-    DPhil University of **Oxford**, 2013.
-  
-    Working on: theoretical and applied **macroeconomics**, **monetary** economics, dynamic stochastic general equilibrium (**DSGE**) modelling and other fields.
+  - excerpt: "**Researcher** and **macroeconomist** in the Deutsche **Bundesbank**'s research department.\n\nDPhil University of **Oxford**, 2013.\n\nWorking on: theoretical and applied **macroeconomics**, **monetary** economics, dynamic stochastic general equilibrium (**DSGE**) modelling and other fields."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
