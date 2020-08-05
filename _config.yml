@@ -77,7 +77,7 @@ analytics:
 author:
   name     : "Tom Holden"
   avatar   : "/assets/images/bio-photo/500x500.jpg"
-  bio      : "Researcher in Macroeconomics at the Deutsche Bundesbank.\n\nFormerly a lecturer (AP) at the University of Surrey.\n\nDPhil University of Oxford, 2013.\n\nThe views expressed on this website are the private views of Tom Holden and do not represent the views of the Deutsche Bundesbank, the Eurosystem or its staff."
+  bio      : "Researcher in Macroeconomics at the Deutsche Bundesbank.\n\nFormerly a lecturer (AP) at the University of Surrey.\n\nDPhil University of Oxford, 2013."
   location : "Frankfurt am Main, Germany"
   links:
     - label: "Email"
