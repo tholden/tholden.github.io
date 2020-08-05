@@ -13,7 +13,7 @@ header:
 excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013.\n\nWorking on:\n\n  * theoretical and applied macroeconomics,\n\n  * monetary economics,\n\n  * dynamic stochastic general equilibrium (DSGE) modelling,\n\n  * and other fields."
 intro:
   - image_path: "assets/images/salt/500x300.jpg"
-  - excerpt: "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013.\n\nWorking on: theoretical and applied macroeconomics, monetary economics, dynamic stochastic general equilibrium (DSGE) modelling and other fields."
+  - excerpt: "## Publications"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
