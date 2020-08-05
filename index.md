@@ -1,5 +1,5 @@
 ---
-title: "Dr Tom Holden"
+title: "Dr Tom D. Holden"
 layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:

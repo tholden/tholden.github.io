@@ -20,17 +20,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dr Tom D Holden"
+title                    : "Dr Tom D. Holden"
 title_separator          : "-"
 subtitle                 : "Researcher, macroeconomist. Deutsche Bundesbank research department."
-name                     : "Dr Tom D Holden"
+name                     : "Dr Tom D. Holden"
 email                    : "thomas.holden@gmail.com"
-description              : "Personal website of Dr Tom D Holden, researcher and macroeconomist in the Deutsche Bundesbank's research department."
+description              : "Personal website of Dr Tom D. Holden, researcher and macroeconomist in the Deutsche Bundesbank's research department."
 url                      : "https://tholden.github.io"
 repository               : "tholden/tholden.github.io"
 teaser                   : "/assets/images/salt/500x300.jpg"
 logo                     : "/assets/images/bio-photo/100x100.jpg"
-masthead_title           : "Dr Tom D Holden"
+masthead_title           : "Dr Tom D. Holden"
 breadcrumbs              : false
 comments:
   provider               : "disqus"
@@ -74,7 +74,7 @@ analytics:
 
 # Site Author
 author:
-  name     : "Dr Tom D Holden"
+  name     : "Dr Tom D. Holden"
   avatar   : "/assets/images/bio-photo/400x400.jpg"
   bio      : "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013."
   location : "Frankfurt am Main, Germany"
@@ -120,7 +120,7 @@ author:
       url:  "https://www.youtube.com/user/seaephpea"
 
 footer:
-  disclaimer: "The views expressed on this website are the private views of Tom D Holden and do not represent the views of the Deutsche Bundesbank, the Eurosystem or its staff."
+  disclaimer: "The views expressed on this website are the private views of Tom D. Holden and do not represent the views of the Deutsche Bundesbank, the Eurosystem or its staff."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
