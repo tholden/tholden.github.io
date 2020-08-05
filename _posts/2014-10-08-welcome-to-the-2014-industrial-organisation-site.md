@@ -3,7 +3,7 @@
 title: Welcome to the 2014 Industrial Organisation site
 
 categories:
-  - 2014-15
+  - Industrial Organization 2014-15
 ---
 This year’s course will be very similar to the 2013 and 2012 ones, which you can see by clicking on the links on the right, or at the top.
 

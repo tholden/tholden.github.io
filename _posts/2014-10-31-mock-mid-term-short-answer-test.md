@@ -3,7 +3,7 @@
 title: Mock mid-term short answer test
 
 categories:
-  - 2014-15
+  - Industrial Organization 2014-15
 ---
 Below is the <a href="http://www.tholden.org/wp-content/uploads/2014/10/IO-2014-mock-mid.pdf">mock mid-term short answer test</a>.
 

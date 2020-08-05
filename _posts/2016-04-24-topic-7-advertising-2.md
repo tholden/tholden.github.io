@@ -3,7 +3,7 @@
 title: 'Topic 7: Advertising'
 
 categories:
-  - 2015-16
+  - Industrial Organization 2015-16
 ---
 In <a href="http://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-7.pdf">this topic</a> we examine different views on the mechanisms by which advertising works, examining the welfare consequences of advertising in each case.
 

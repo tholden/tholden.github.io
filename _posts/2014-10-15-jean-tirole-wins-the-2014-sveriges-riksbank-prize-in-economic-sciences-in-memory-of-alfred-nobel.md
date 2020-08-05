@@ -3,7 +3,7 @@
 title: Jean Tirole wins the 2014 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel
 
 categories:
-  - 2014-15
+  - Industrial Organization 2014-15
   - Blog
   - Industrial Organisation
 ---
