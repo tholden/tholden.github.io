@@ -2,7 +2,7 @@
 title: 'Topic 9: Search and matching, old Keynesian, and new monetarist models'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

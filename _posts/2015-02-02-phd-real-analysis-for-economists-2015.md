@@ -4,7 +4,6 @@ title: PhD Real Analysis for Economists, 2015
 
 categories:
   - Mathematics for Economists
-  - PhD
 ---
 Below are the videos for the PhD Real Analysis for Economists course that I ran in January 2015.
 

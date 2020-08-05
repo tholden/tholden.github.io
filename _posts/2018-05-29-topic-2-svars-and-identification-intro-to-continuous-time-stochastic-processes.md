@@ -3,7 +3,7 @@
 title: 'Topic 2: SVARs and identification + Intro to continuous time stochastic processes'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

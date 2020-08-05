@@ -3,7 +3,7 @@
 title: 'Topic 1: Introduction to time series econometrics and VARs'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

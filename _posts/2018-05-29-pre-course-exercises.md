@@ -3,7 +3,7 @@
 title: Pre-course exercises
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Exercises:
 <div class="PDFcontainer">

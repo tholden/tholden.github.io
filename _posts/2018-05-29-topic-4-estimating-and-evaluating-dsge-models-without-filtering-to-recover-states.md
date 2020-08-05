@@ -3,7 +3,7 @@
 title: 'Topic 4: Estimating and evaluating DSGE models without filtering to recover states'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

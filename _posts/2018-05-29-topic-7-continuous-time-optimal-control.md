@@ -3,7 +3,7 @@
 title: 'Topic 7: Continuous time optimal control'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

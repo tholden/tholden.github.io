@@ -3,7 +3,7 @@
 title: 'Topic 5: Estimating DSGE models via filtering to recover states: Part 1'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

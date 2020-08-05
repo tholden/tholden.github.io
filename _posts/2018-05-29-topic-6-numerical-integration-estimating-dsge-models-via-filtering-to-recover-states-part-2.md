@@ -3,7 +3,7 @@
 title: 'Topic 6: Numerical integration + Estimating DSGE models via filtering to recover states: Part 2'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

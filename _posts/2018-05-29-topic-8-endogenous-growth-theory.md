@@ -3,7 +3,7 @@
 title: 'Topic 8: Endogenous growth theory'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">

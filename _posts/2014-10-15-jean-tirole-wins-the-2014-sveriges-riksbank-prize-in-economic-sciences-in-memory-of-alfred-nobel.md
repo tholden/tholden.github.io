@@ -4,8 +4,6 @@ title: Jean Tirole wins the 2014 Sveriges Riksbank Prize in Economic Sciences in
 
 categories:
   - Industrial Organization 2014-15
-  - Blog
-  - Industrial Organisation
 ---
 Tirole has made many huge contributions to the field of Industrial Organisation that we're studying this semester. I know I'm a bit late on this as I've been away, but <a title="Jean Tirole's Nobel" href="http://www.newyorker.com/news/john-cassidy/worthy-economics-nobel-jean-tirole" target="_blank">here's a nice summary of why Tirole deserved to win the prize</a>.
 

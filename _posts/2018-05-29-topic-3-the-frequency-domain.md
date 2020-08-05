@@ -3,7 +3,7 @@
 title: 'Topic 3: The frequency domain'
 
 categories:
-  - Macroeconomics 2
+  - PhD Macroeconomics 2
 ---
 Slides:
 <div class="PDFcontainer">
