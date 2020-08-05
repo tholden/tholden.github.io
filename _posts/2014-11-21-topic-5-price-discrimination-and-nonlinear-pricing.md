@@ -1,12 +1,12 @@
 ---
 
 title: 'Topic 5: Price discrimination and nonlinear pricing'
-
-  - io.tholden.org
-
-
 categories:
-  - 2014-15
+  - Industrial Organization 2014-15
+
+
+
+
 ---
 In <a href="http://www.tholden.org/wp-content/uploads/2014/11/IO-2014-topic-5.pdf">this topic</a>, we look at the different varieties of price discrimination which monopolists may perform.
 

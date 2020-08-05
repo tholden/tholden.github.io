@@ -1,12 +1,12 @@
 ---
 
 title: 'Topic 1: Introduction to Industrial Organisation'
-
-  - io.tholden.org
-
-
 categories:
-  - 2015-16
+  - Industrial Organization 2015-16
+
+
+
+
 ---
 In <a href="http://www.tholden.org/wp-content/uploads/2016/02/IO-2015-16-topic-1.pdf">this topic</a>, I give a basic overview of IO, and we do some "revision" of demand curves, profits, welfare and monopoly.
 

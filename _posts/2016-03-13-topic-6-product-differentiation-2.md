@@ -1,12 +1,12 @@
 ---
 
 title: 'Topic 6: Product differentiation'
-
-  - io.tholden.org
-
-
 categories:
-  - 2015-16
+  - Industrial Organization 2015-16
+
+
+
+
 ---
 In <a href="http://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf">this topic</a> we analyse horizontal product differentiation models, which are models in which consumers value variety in consumption, or in which different consumers prefer different goods.
 
