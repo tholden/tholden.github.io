@@ -1,11 +1,7 @@
 ---
-id: 691
+
 title: 'Topic 7: Continuous time optimal control'
-date: 2018-05-29T15:44:31+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=691
-permalink: /2018/05/29/topic-7-continuous-time-optimal-control/
+
 categories:
   - Macroeconomics 2
 ---

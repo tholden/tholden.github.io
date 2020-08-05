@@ -1,6 +1,6 @@
 ---
 title: 'Topic 9: Search and matching, old Keynesian, and new monetarist models'
-date: 2018-05-29T15:47:30+01:00
+
 categories:
   - Macroeconomics 2
 ---

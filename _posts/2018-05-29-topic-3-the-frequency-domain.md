@@ -1,11 +1,7 @@
 ---
-id: 681
+
 title: 'Topic 3: The frequency domain'
-date: 2018-05-29T15:37:55+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=681
-permalink: /2018/05/29/topic-3-the-frequency-domain/
+
 categories:
   - Macroeconomics 2
 ---

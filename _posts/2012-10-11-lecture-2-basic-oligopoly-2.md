@@ -1,19 +1,9 @@
 ---
-id: 57
+
 title: 'Lecture 2: Basic oligopoly'
-date: 2012-10-11T22:46:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/10/11/lecture-2-basic-oligopoly-2/
-permalink: /2012/10/11/lecture-2-basic-oligopoly-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/10/lecture-2-basic-oligopoly.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/702312188602973846
+
 categories:
   - 2012-13
 ---

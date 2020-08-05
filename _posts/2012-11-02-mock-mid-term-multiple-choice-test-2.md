@@ -1,19 +1,9 @@
 ---
-id: 53
+
 title: Mock mid-term multiple choice test
-date: 2012-11-02T13:12:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/11/02/mock-mid-term-multiple-choice-test-2/
-permalink: /2012/11/02/mock-mid-term-multiple-choice-test-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/11/mock-mid-term-multiple-choice-test.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/5833575962740615687
+
 dsq_thread_id:
   - "6176243781"
 categories:

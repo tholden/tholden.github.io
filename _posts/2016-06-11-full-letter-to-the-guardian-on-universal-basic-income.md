@@ -1,13 +1,7 @@
 ---
-id: 447
+
 title: Full letter to the Guardian on Universal Basic Income
-date: 2016-06-11T16:24:07+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=447
-permalink: /2016/06/11/full-letter-to-the-guardian-on-universal-basic-income/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - Blog
 ---

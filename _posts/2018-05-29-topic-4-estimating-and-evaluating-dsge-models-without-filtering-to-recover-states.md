@@ -1,11 +1,7 @@
 ---
-id: 685
+
 title: 'Topic 4: Estimating and evaluating DSGE models without filtering to recover states'
-date: 2018-05-29T15:40:15+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=685
-permalink: /2018/05/29/topic-4-estimating-and-evaluating-dsge-models-without-filtering-to-recover-states/
+
 categories:
   - Macroeconomics 2
 ---

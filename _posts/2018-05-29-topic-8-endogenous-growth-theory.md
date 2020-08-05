@@ -1,11 +1,7 @@
 ---
-id: 693
+
 title: 'Topic 8: Endogenous growth theory'
-date: 2018-05-29T15:46:03+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=693
-permalink: /2018/05/29/topic-8-endogenous-growth-theory/
+
 categories:
   - Macroeconomics 2
 ---

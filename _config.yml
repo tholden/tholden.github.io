@@ -35,7 +35,7 @@ breadcrumbs              : false
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "tholden" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "tholden.org" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 search                   : true
 search_full_content      : true
 search_provider          : lunr # lunr (default), algolia, google

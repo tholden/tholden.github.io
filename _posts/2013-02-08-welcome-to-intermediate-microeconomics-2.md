@@ -1,19 +1,8 @@
 ---
-id: 35
+
 title: Welcome to Intermediate Microeconomics 2!
-date: 2013-02-08T09:07:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/02/08/welcome-to-intermediate-microeconomics-2/
-permalink: /2013/02/08/welcome-to-intermediate-microeconomics-2/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/02/welcome-to-intermediate-microeconomics-2.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/581305015976824047
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

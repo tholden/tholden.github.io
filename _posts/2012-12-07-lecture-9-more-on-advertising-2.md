@@ -1,19 +1,9 @@
 ---
-id: 48
+
 title: 'Lecture 9: More on advertising'
-date: 2012-12-07T12:46:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/12/07/lecture-9-more-on-advertising-2/
-permalink: /2012/12/07/lecture-9-more-on-advertising-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/12/lecture-9-more-on-advertising.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/1751331686127409971
+
 categories:
   - 2012-13
 ---

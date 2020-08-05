@@ -1,11 +1,7 @@
 ---
-id: 679
+
 title: 'Topic 2: SVARs and identification + Intro to continuous time stochastic processes'
-date: 2018-05-29T15:36:01+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=679
-permalink: /2018/05/29/topic-2-svars-and-identification-intro-to-continuous-time-stochastic-processes/
+
 categories:
   - Macroeconomics 2
 ---

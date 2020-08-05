@@ -1,13 +1,7 @@
 ---
-id: 117
+
 title: Welcome to my site
-date: 2014-10-07T21:38:43+01:00
-author: Tom
-layout: post
-guid: https://www-tholden.rhcloud.com/?p=117
-permalink: /2014/10/07/welcome-to-my-site/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - Blog
 ---

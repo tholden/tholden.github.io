@@ -1,13 +1,7 @@
 ---
-id: 252
+
 title: Mock mid-term short answer test
-date: 2014-10-31T15:08:23+00:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=252
-permalink: /2014/10/31/mock-mid-term-short-answer-test/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - 2014-15
 ---

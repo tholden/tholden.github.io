@@ -1,19 +1,8 @@
 ---
-id: 24
+
 title: 'Lecture 7: Asymmetric information 2'
-date: 2013-04-25T21:24:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/04/25/lecture-7-asymmetric-information-2/
-permalink: /2013/04/25/lecture-7-asymmetric-information-2/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/04/asymmetric-information-2.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/6622403829332967960
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

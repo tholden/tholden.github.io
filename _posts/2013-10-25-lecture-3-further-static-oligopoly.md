@@ -1,19 +1,9 @@
 ---
-id: 44
+
 title: 'Lecture 3: Further static oligopoly'
-date: 2013-10-25T16:40:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/10/25/lecture-3-further-static-oligopoly/
-permalink: /2013/10/25/lecture-3-further-static-oligopoly/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/10/lecture-3-further-static-oligopoly.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/17573748654787904
+
 categories:
   - 2013-14
 ---

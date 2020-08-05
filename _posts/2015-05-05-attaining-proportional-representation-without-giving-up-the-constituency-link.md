@@ -1,13 +1,7 @@
 ---
-id: 339
+
 title: Attaining proportional representation without giving up the constituency link
-date: 2015-05-05T14:23:49+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=339
-permalink: /2015/05/05/attaining-proportional-representation-without-giving-up-the-constituency-link/
-spacious_page_layout:
-  - default_layout
+
 dsq_thread_id:
   - "6176243780"
 categories:

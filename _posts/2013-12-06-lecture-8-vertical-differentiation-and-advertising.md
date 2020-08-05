@@ -1,19 +1,9 @@
 ---
-id: 37
+
 title: 'Lecture 8: Vertical differentiation and advertising'
-date: 2013-12-06T12:24:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/12/06/lecture-8-vertical-differentiation-and-advertising/
-permalink: /2013/12/06/lecture-8-vertical-differentiation-and-advertising/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/12/lecture-8-vertical-differentiation-and.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/2430467142538672988
+
 categories:
   - 2013-14
 ---

@@ -1,19 +1,9 @@
 ---
-id: 63
+
 title: 'Lecture 6: Product differentiation 2'
-date: 2011-11-10T22:03:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2011/11/10/lecture-6-product-differentiation-2/
-permalink: /2011/11/10/lecture-6-product-differentiation-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2011/11/this-week-we-look-more-at-product.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/5175285744598631386
+
 categories:
   - 2011-12
 ---

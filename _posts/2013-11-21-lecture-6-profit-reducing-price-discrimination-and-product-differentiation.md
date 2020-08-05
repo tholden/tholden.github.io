@@ -1,19 +1,9 @@
 ---
-id: 40
+
 title: 'Lecture 6: Profit reducing price discrimination, and product differentiation'
-date: 2013-11-21T22:50:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/11/21/lecture-6-profit-reducing-price-discrimination-and-product-differentiation/
-permalink: /2013/11/21/lecture-6-profit-reducing-price-discrimination-and-product-differentiation/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/11/lecture-6-profit-reducing-price.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/4128425493798501485
+
 dsq_thread_id:
   - "6176243770"
 categories:

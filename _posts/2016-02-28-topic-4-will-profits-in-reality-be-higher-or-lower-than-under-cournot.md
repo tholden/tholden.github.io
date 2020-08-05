@@ -1,21 +1,10 @@
 ---
-id: 419
+
 title: 'Topic 4: Will profits in reality be higher or lower than under Cournot?'
-date: 2016-02-28T16:36:00+00:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=419
-permalink: /2016/02/28/topic-4-will-profits-in-reality-be-higher-or-lower-than-under-cournot/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/10/lecture-4-will-profits-in-reality-be.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/7864549598074478986
-spacious_page_layout:
-  - default_layout
+
+
 categories:
   - 2015-16
 ---

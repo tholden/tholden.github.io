@@ -1,11 +1,7 @@
 ---
-id: 582
+
 title: Article on Universal Basic Income as a tool for tax and benefit reform
-date: 2017-10-04T22:01:13+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=582
-permalink: /2017/10/04/article-on-universal-basic-income-as-a-tool-for-tax-and-benefit-reform/
+
 switch_like_status:
   - "1"
 categories:

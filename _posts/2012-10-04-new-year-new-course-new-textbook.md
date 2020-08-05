@@ -1,19 +1,9 @@
 ---
-id: 59
+
 title: New year, new course, new textbook
-date: 2012-10-04T22:18:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/10/04/new-year-new-course-new-textbook/
-permalink: /2012/10/04/new-year-new-course-new-textbook/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/10/new-year-new-course-new-textbook.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/4027448726424046190
+
 categories:
   - 2012-13
 ---

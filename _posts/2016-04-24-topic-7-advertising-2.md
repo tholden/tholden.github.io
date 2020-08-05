@@ -1,13 +1,7 @@
 ---
-id: 443
+
 title: 'Topic 7: Advertising'
-date: 2016-04-24T16:25:57+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=443
-permalink: /2016/04/24/topic-7-advertising-2/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - 2015-16
 ---

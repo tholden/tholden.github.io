@@ -1,19 +1,8 @@
 ---
-id: 31
+
 title: 'Lecture 3.1: Welfare'
-date: 2013-02-21T23:08:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/02/21/lecture-3-1-welfare/
-permalink: /2013/02/21/lecture-3-1-welfare/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/02/lecture-31-welfare.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/1820023616871882397
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

@@ -1,21 +1,10 @@
 ---
-id: 232
+
 title: 'Topic 2: Basic oligopoly'
-date: 2014-10-17T15:15:37+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=232
-permalink: /2014/10/17/lecture-2-basic-oligopoly-3/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/10/lecture-2-basic-oligopoly.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/3929032522400823795
-spacious_page_layout:
-  - default_layout
+
+
 categories:
   - 2014-15
 ---

@@ -1,13 +1,7 @@
 ---
-id: 227
+
 title: Jean Tirole wins the 2014 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel
-date: 2014-10-15T09:54:03+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=227
-permalink: /2014/10/15/jean-tirole-wins-the-2014-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - 2014-15
   - Blog

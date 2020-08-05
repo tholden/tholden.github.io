@@ -1,19 +1,8 @@
 ---
-id: 23
+
 title: Problem set 4
-date: 2013-04-28T18:10:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/04/28/problem-set-4/
-permalink: /2013/04/28/problem-set-4/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/04/problem-set-4.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/5169804947772628347
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

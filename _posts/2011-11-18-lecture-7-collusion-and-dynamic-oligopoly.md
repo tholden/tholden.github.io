@@ -1,19 +1,9 @@
 ---
-id: 62
+
 title: 'Lecture 7: Collusion and Dynamic Oligopoly'
-date: 2011-11-18T17:05:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2011/11/18/lecture-7-collusion-and-dynamic-oligopoly/
-permalink: /2011/11/18/lecture-7-collusion-and-dynamic-oligopoly/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2011/11/lecture-7-collusion-and-dynamic.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/4353624109672006901
+
 categories:
   - 2011-12
 ---

@@ -1,13 +1,7 @@
 ---
-id: 155
+
 title: Welcome to the 2014 Industrial Organisation site
-date: 2014-10-08T18:01:48+01:00
-author: Tom
-layout: post
-guid: /?p=155
-permalink: /2014/10/08/welcome-to-the-2014-industrial-organisation-site/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - 2014-15
 ---

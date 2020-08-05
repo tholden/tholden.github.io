@@ -1,19 +1,8 @@
 ---
-id: 30
+
 title: 'Lecture 3.2: Externalities'
-date: 2013-02-21T23:09:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/02/21/lecture-3-2-externalities/
-permalink: /2013/02/21/lecture-3-2-externalities/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/02/lecture-32-externalities.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/7421704470877477526
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

@@ -1,19 +1,9 @@
 ---
-id: 51
+
 title: 'Lecture 7: More on product differentiation'
-date: 2012-11-23T00:02:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/11/23/lecture-7-more-on-product-differentiation-2/
-permalink: /2012/11/23/lecture-7-more-on-product-differentiation-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/11/lecture-7-more-on-product.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/2077918741797473721
+
 dsq_thread_id:
   - "6176243774"
 categories:

@@ -1,19 +1,8 @@
 ---
-id: 27
+
 title: 'Lecture 5: Intertemporal choice'
-date: 2013-03-07T20:56:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/03/07/lecture-5-intertemporal-choice/
-permalink: /2013/03/07/lecture-5-intertemporal-choice/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/03/lecture-5-intertemporal-choice.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/1029058746030215047
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

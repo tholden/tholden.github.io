@@ -1,19 +1,8 @@
 ---
-id: 69
 title: General reading
-date: 2011-10-02T18:40:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2011/10/02/general-reading/
-permalink: /2011/10/02/general-reading/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2011/10/general-reading.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/1039623129266691536
+
 categories:
   - 2011-12
 ---

@@ -1,19 +1,9 @@
 ---
-id: 60
+
 title: 'Lecture 9: Research and Development'
-date: 2011-12-02T17:35:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2011/12/02/lecture-9-research-and-development/
-permalink: /2011/12/02/lecture-9-research-and-development/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2011/12/lecture-9-research-and-development.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/5723797124834857318
+
 categories:
   - 2011-12
 ---

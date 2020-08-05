@@ -1,21 +1,10 @@
 ---
-id: 431
+
 title: 'Topic 6: Product differentiation'
-date: 2016-03-13T17:06:36+00:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=431
-permalink: /2016/03/13/topic-6-product-differentiation-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/11/lecture-6-profit-reducing-price.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/4128425493798501485
-spacious_page_layout:
-  - default_layout
+
+
 categories:
   - 2015-16
 ---

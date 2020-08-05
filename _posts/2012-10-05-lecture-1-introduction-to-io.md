@@ -1,19 +1,9 @@
 ---
-id: 58
+
 title: 'Lecture 1: Introduction to IO'
-date: 2012-10-05T11:54:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/10/05/lecture-1-introduction-to-io/
-permalink: /2012/10/05/lecture-1-introduction-to-io/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/10/lecture-1-introduction-to-io.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/5368242082551287761
+
 categories:
   - 2012-13
 ---

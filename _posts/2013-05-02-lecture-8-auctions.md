@@ -1,19 +1,8 @@
 ---
-id: 22
+
 title: 'Lecture 8: Auctions'
-date: 2013-05-02T22:51:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/05/02/lecture-8-auctions/
-permalink: /2013/05/02/lecture-8-auctions/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/05/lecture-8-auctions.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/6733680046349232995
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

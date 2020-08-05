@@ -1,11 +1,7 @@
 ---
-id: 689
+
 title: 'Topic 6: Numerical integration + Estimating DSGE models via filtering to recover states: Part 2'
-date: 2018-05-29T15:43:31+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=689
-permalink: /2018/05/29/topic-6-numerical-integration-estimating-dsge-models-via-filtering-to-recover-states-part-2/
+
 categories:
   - Macroeconomics 2
 ---

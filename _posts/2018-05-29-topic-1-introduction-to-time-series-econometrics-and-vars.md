@@ -1,11 +1,7 @@
 ---
-id: 655
+
 title: 'Topic 1: Introduction to time series econometrics and VARs'
-date: 2018-05-29T15:34:03+01:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=655
-permalink: /2018/05/29/topic-1-introduction-to-time-series-econometrics-and-vars/
+
 categories:
   - Macroeconomics 2
 ---

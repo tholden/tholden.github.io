@@ -1,19 +1,8 @@
 ---
-id: 25
+
 title: Problem set 3
-date: 2013-03-15T00:04:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/03/15/problem-set-3/
-permalink: /2013/03/15/problem-set-3/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/03/problem-set-3.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/4032901406769007806
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

@@ -1,19 +1,8 @@
 ---
-id: 33
+
 title: 'Lecture 2: Uncertainty 2'
-date: 2013-02-14T19:47:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/02/14/lecture-2-uncertainty-2/
-permalink: /2013/02/14/lecture-2-uncertainty-2/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/02/lecture-2-uncertainty-2.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/6854481002525860545
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

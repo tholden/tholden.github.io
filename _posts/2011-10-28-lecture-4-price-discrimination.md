@@ -1,19 +1,9 @@
 ---
-id: 65
+
 title: 'Lecture 4: Price Discrimination'
-date: 2011-10-28T16:28:00+01:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2011/10/28/lecture-4-price-discrimination/
-permalink: /2011/10/28/lecture-4-price-discrimination/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2011/10/lecture-4-price-discrimination.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/7262525656315006199
+
 categories:
   - 2011-12
 ---

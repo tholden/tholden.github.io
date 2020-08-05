@@ -1,13 +1,7 @@
 ---
-id: 319
+
 title: PhD Real Analysis for Economists, 2015
-date: 2015-02-02T21:24:03+00:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=319
-permalink: /2015/02/02/phd-real-analysis-for-economists-2015/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - Mathematics for Economists
   - PhD

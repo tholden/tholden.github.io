@@ -1,19 +1,9 @@
 ---
-id: 49
+
 title: Mock end of term test
-date: 2012-11-29T12:53:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/11/29/mock-end-of-term-test-2/
-permalink: /2012/11/29/mock-end-of-term-test-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/11/mock-end-of-term-test.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/7941286481261135430
+
 categories:
   - 2012-13
 ---

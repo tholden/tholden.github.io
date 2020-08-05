@@ -1,19 +1,8 @@
 ---
-id: 32
+
 title: Problem set 1
-date: 2013-02-14T19:48:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/02/14/problem-set-1/
-permalink: /2013/02/14/problem-set-1/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/02/problem-set-1.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/6565414292362131658
+
+
 categories:
   - Intermediate Microeconomics 2
 ---

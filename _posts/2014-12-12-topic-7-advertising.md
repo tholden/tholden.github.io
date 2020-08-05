@@ -1,13 +1,7 @@
 ---
-id: 304
+
 title: 'Topic 7: Advertising'
-date: 2014-12-12T15:12:37+00:00
-author: Tom
-layout: post
-guid: http://www.tholden.org/?p=304
-permalink: /2014/12/12/topic-7-advertising/
-spacious_page_layout:
-  - default_layout
+
 categories:
   - 2014-15
 ---

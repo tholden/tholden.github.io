@@ -1,19 +1,9 @@
 ---
-id: 54
+
 title: 'Lecture 5: Price discrimination and  nonlinear pricing'
-date: 2012-11-01T18:36:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2012/11/01/lecture-5-price-discrimination-and-nonlinear-pricing-2/
-permalink: /2012/11/01/lecture-5-price-discrimination-and-nonlinear-pricing-2/
-blogger_blog:
+
   - io.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2012/11/lecture-5-price-discrimination-and.html
-blogger_internal:
-  - /feeds/4114520347736915394/posts/default/504625921598398971
+
 categories:
   - 2012-13
 ---

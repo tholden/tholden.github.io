@@ -1,19 +1,8 @@
 ---
-id: 29
+
 title: 'Lecture 4: Public goods'
-date: 2013-03-01T00:33:00+00:00
-author: Tom
-layout: post
-guid: http://www-tholden.rhcloud.com/2013/03/01/lecture-4-public-goods/
-permalink: /2013/03/01/lecture-4-public-goods/
-blogger_blog:
-  - micro2.tholden.org
-blogger_author:
-  - Tom Holden
-blogger_permalink:
-  - /2013/02/lecture-4-public-goods.html
-blogger_internal:
-  - /feeds/8663938775296731195/posts/default/313369842090631775
+
+
 categories:
   - Intermediate Microeconomics 2
 ---
