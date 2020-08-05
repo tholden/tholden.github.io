@@ -83,7 +83,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url:  "mailto:thomas.holden@gmail.com"
-   - label: "Personal website"
+    - label: "Personal website"
       icon: "fas fa-fw fa-link"
       url:  "https://www.tholden.org/"
     - label: "Bundesbank website"
