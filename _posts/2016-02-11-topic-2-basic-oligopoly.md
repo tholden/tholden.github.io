@@ -1,12 +1,8 @@
 ---
 
 title: 'Topic 2: Basic oligopoly'
-
-  - io.tholden.org
-
-
 categories:
-  - 2015-16
+  - Industrial Organization 2015-16
 ---
 In <a href="http://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-2.pdf">this topic</a>, we start with a game theory refresher, and then we move on to take a fresh look at Bertrand and Cournot oligopoly.
 
