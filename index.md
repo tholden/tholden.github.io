@@ -1,5 +1,5 @@
 ---
-title: "<span style="background-color: #000; opacity: 0.5;">Dr Tom D. Holden</span>"
+title: '<span style="background-color: #000; opacity: 0.5;">Dr Tom D. Holden</span>'
 layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:
