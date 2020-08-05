@@ -1,10 +1,6 @@
 ---
-id: 695
 title: 'Topic 9: Search and matching, old Keynesian, and new monetarist models'
 date: 2018-05-29T15:47:30+01:00
-author: Tom
-guid: http://www.tholden.org/?p=695
-permalink: /2018/05/29/topic-9-search-and-matching-old-keynesian-and-new-monetarist-models/
 categories:
   - Macroeconomics 2
 ---
