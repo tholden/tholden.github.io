@@ -8,22 +8,22 @@ categories:
 
 
 ---
-In <a href="http://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf">this topic</a> we analyse horizontal product differentiation models, which are models in which consumers value variety in consumption, or in which different consumers prefer different goods.
+In <a href="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf">this topic</a> we analyse horizontal product differentiation models, which are models in which consumers value variety in consumption, or in which different consumers prefer different goods.
 
 <div class="PDFcontainer">
-<div class="PDFelement"><object data="http://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf" type="application/pdf" width="100%" height="100%"><a href="http://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf">IO-2014-topic-6.pdf</a></object></div>
+<div class="PDFelement"><object data="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf" type="application/pdf" width="100%" height="100%"><a href="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf">IO-2014-topic-6.pdf</a></object></div>
 </div>
 
 Lecture 1:
 
-http://youtu.be/QJwTo-aaxa0
+https://youtu.be/QJwTo-aaxa0
 
 Lecture 2:
 
-http://youtu.be/HTbeJ5dAeDQ
+https://youtu.be/HTbeJ5dAeDQ
 
 Class 8 is under the previous lecture, since we did not discuss product differentiation in it.
 
 Class:
 
-http://youtu.be/AUr_C0hMXYc
+https://youtu.be/AUr_C0hMXYc

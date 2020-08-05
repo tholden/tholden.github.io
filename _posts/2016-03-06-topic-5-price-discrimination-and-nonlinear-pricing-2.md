@@ -8,10 +8,10 @@ categories:
 
 
 ---
-In <a href="http://www.tholden.org/wp-content/uploads/2016/03/IO-2015-16-topic-5.pdf">this topic</a>, we look at the different varieties of price discrimination which monopolists may perform.
+In <a href="https://www.tholden.org/wp-content/uploads/2016/03/IO-2015-16-topic-5.pdf">this topic</a>, we look at the different varieties of price discrimination which monopolists may perform.
 
 <div class="PDFcontainer">
-<div class="PDFelement"><object data="http://www.tholden.org/wp-content/uploads/2016/03/IO-2015-16-topic-5.pdf" type="application/pdf" width="100%" height="100%"><a href="http://www.tholden.org/wp-content/uploads/2016/03/IO-2015-16-topic-5.pdf">IO-2015-16-topic-5.pdf</a></object></div>
+<div class="PDFelement"><object data="https://www.tholden.org/wp-content/uploads/2016/03/IO-2015-16-topic-5.pdf" type="application/pdf" width="100%" height="100%"><a href="https://www.tholden.org/wp-content/uploads/2016/03/IO-2015-16-topic-5.pdf">IO-2015-16-topic-5.pdf</a></object></div>
 </div>
 
 Lecture:
