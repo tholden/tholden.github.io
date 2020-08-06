@@ -10,15 +10,12 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.p
 <object data="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf" type="application/pdf" width="100%" height="100%"><a href="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-6.pdf">IO-2014-topic-6.pdf</a></object>
 
 Lecture 1:
-
-https://youtu.be/QJwTo-aaxa0
+{% include video id="QJwTo-aaxa0" provider="youtube" %}
 
 Lecture 2:
-
-https://youtu.be/HTbeJ5dAeDQ
+{% include video id="HTbeJ5dAeDQ" provider="youtube" %}
 
 Class 8 is under the previous lecture, since we did not discuss product differentiation in it.
 
 Class:
-
-https://youtu.be/AUr_C0hMXYc
+{% include video id="AUr_C0hMXYc" provider="youtube" %}

@@ -10,10 +10,8 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-7.p
 <object data="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-7.pdf" type="application/pdf" width="100%" height="100%"><a href="https://www.tholden.org/wp-content/uploads/2014/12/IO-2014-topic-7.pdf">IO-2014-topic-7.pdf</a></object>
 
 Lectures:
-
-https://youtu.be/cqQgX4FbaBE
-https://youtu.be/NvRxtRx1JFU
+{% include video id="cqQgX4FbaBE" provider="youtube" %}
+{% include video id="NvRxtRx1JFU" provider="youtube" %}
 
 Class:
-
-https://youtu.be/PK3P3ldCzak
+{% include video id="PK3P3ldCzak" provider="youtube" %}

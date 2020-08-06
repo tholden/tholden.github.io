@@ -10,21 +10,16 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-3
 <object data="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-3.pdf" type="application/pdf" width="100%" height="100%"><a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-3.pdf">IO-2014-lecture-3.pdf</a></object>
 
 1st Lecture:
-
-https://youtu.be/cf742v63uro
+{% include video id="cf742v63uro" provider="youtube" %}
 
 2nd Lecture:
-
-https://youtu.be/zKdRK6roOiY
+{% include video id="zKdRK6roOiY" provider="youtube" %}
 
 1st Class:
-
-https://youtu.be/RitVTXQh73Q
+{% include video id="RitVTXQh73Q" provider="youtube" %}
 
 2nd Class:
-
-https://youtu.be/vX_Yx1nFBYw
+{% include video id="vX_Yx1nFBYw" provider="youtube" %}
 
 3rd Class:
-
-https://youtu.be/gLEOY4G0AXc
+{% include video id="gLEOY4G0AXc" provider="youtube" %}

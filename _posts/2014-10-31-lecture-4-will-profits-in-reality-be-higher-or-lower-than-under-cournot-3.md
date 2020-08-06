@@ -12,9 +12,7 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-4
 Note that since we did not cover any of these slides in week 4, the class and lecture from week 4 are placed under topic 3.
 
 Lecture:
-
-https://youtu.be/XKpdiTJLu9o
+{% include video id="XKpdiTJLu9o" provider="youtube" %}
 
 Class:
-
-https://youtu.be/DGutR-ntvDE
+{% include video id="DGutR-ntvDE" provider="youtube" %}

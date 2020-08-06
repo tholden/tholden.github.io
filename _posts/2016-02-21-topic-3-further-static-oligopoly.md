@@ -10,12 +10,10 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-3
 <object data="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-3.pdf" type="application/pdf" width="100%" height="100%"><a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-3.pdf">IO-2014-lecture-3.pdf</a></object>
 
 Lecture:
-
-https://youtu.be/OUG4Cu2EJGY
+{% include video id="OUG4Cu2EJGY" provider="youtube" %}
 
 Class:
-
-https://youtu.be/qmM6tl23wRk
+{% include video id="qmM6tl23wRk" provider="youtube" %}
 
 Note that in this class I made a bit of a mess of the final problem we went through. A worked answer to that problem is available below:
 
