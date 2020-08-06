@@ -24,5 +24,5 @@ I have taught the following courses, amongst others:
 My past PhD students include:
 
   * [Jonathan Swarbrick](http://www.jonathanswarbrick.co.uk/) - Placed at the Bank of Canada.
-  * [Stylianos Tsiaras] (https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2019-2020/TSIARAS-Stylianos) - Placed at EUI as a Max Weber Fellow.
+  * [Stylianos Tsiaras](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2019-2020/TSIARAS-Stylianos) - Placed at EUI as a Max Weber Fellow.
   * [Dmitry Brizhatyuk](https://dbrizhatyuk.github.io/) (I was a dissertation committee member) - Placed at Moody's Analytics.
