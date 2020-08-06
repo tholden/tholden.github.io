@@ -5,14 +5,14 @@ categories:
 
 ---
 Core texts:
-  * Cabral, <i>Introduction to Industrial Organization</i>
-  * Tirole, <i>The Theory of Industrial Organization</i>
+  * Cabral, *Introduction to Industrial Organization*
+  * Tirole, *The Theory of Industrial Organization*
 
 Free, online alternative:
-  * <a href="https://works.bepress.com/cgi/viewcontent.cgi?article=1022&amp;context=jeffrey_church">Church and Ware, <i>Industrial Organization</i></a>
+  * <a href="https://works.bepress.com/cgi/viewcontent.cgi?article=1022&amp;context=jeffrey_church">Church and Ware, *Industrial Organization*</a>
 
 Further alternatives:
-  * Richards and   Norman, <i>Industrial Organization: Contemporary Theory and Empirical Applications</i>
-  * Carlton and Perloff, <i>Modern Industrial Organization</i>
-  * Motta, <i>Competition Policy</i>
-  * Whinston, <i>Lectures on Antitrust Economics</i>
+  * Richards and   Norman, *Industrial Organization: Contemporary Theory and Empirical Applications*
+  * Carlton and Perloff, *Modern Industrial Organization*
+  * Motta, *Competition Policy*
+  * Whinston, *Lectures on Antitrust Economics*
