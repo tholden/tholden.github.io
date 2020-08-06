@@ -7,4 +7,6 @@ categories:
 
 
 ---
-In this lecture, we cover:<br /><ul><li>Why collude?</li><li>Examples and types of collusion.</li><li>Collusion in Dynamic Oligopoly.</li><li>The Folk Theorem.</li><li>Factors facilitating collusion.</li></ul><a title="View Lecture 7 on Scribd" href="https://www.scribd.com/doc/73124401/Lecture-7" >Lecture 7</a><iframe src="https://www.scribd.com/embeds/73124401/content?start_page=1&view_mode=slideshow&access_key=key-1qrlaoftrd3tpwyxy7sa" data-auto-height="true" data-aspect-ratio="1.33333333333333" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
+In this lecture, we cover:
+
+<ul><li>Why collude?</li><li>Examples and types of collusion.</li><li>Collusion in Dynamic Oligopoly.</li><li>The Folk Theorem.</li><li>Factors facilitating collusion.</li></ul><a title="View Lecture 7 on Scribd" href="https://www.scribd.com/doc/73124401/Lecture-7" >Lecture 7</a><iframe src="https://www.scribd.com/embeds/73124401/content?start_page=1&view_mode=slideshow&access_key=key-1qrlaoftrd3tpwyxy7sa" data-auto-height="true" data-aspect-ratio="1.33333333333333" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
