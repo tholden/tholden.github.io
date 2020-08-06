@@ -20,12 +20,12 @@ Tirole, <i>The Theory of Industrial Organization</i>
 
 
 
-<b>Further alternatives</b><span >&nbsp;</span>
+<b>Further alternatives</b> &nbsp; 
 
-<span >Richards and </span><span >Norman, <i>Industrial Organization: Contemporary Theory and Empirical Applications</i><i>
+ Richards and   Norman, <i>Industrial Organization: Contemporary Theory and Empirical Applications</i><i>
 
-</i></span><span >Carlton and Perloff, <i>Modern Industrial Organization</i><i>
+</i>  Carlton and Perloff, <i>Modern Industrial Organization</i><i>
 
-</i></span><span >Motta, <i>Competition Policy</i></span>
+</i>  Motta, <i>Competition Policy</i> 
 
-<div><span >Whinston, <i>Lectures on Antitrust Economics</i></span></div>
+ Whinston, <i>Lectures on Antitrust Economics</i> 
