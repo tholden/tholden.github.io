@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/header.jpg
   actions:
-    - label: "<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Download CV</span>"
+    - label: "Download CV"
       url: "/assets/files/cv.pdf"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Researcher and macroeconomist in the Deutsche Bundesbank's research department.</span>\n\n<span style=\u0022background-color: #000; opacity: 0.5;\u0022>DPhil (PhD) University of Oxford, 2013.</span>"
