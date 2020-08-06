@@ -8,14 +8,8 @@ categories:
 
 ---
 This week we look at advertising, covering:
-
-
-
-
   * Different views on why advertising works.
-
   * Several models and their welfare implications.
-
   * Some empirics.
 
 

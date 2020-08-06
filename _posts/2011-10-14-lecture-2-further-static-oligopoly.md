@@ -8,18 +8,10 @@ categories:
 
 ---
 In this lecture we cover:
-
-
-
-
   * Some game theory
-
   * Cournot versus Bertrand
-
   * Kreps and Scheinkman (1983)
-
   * Entry
-
   * Welfare
 
 

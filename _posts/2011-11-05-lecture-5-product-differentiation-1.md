@@ -8,12 +8,7 @@ categories:
 
 ---
 In this lecture we cover:
-
-
-
-
   * The Dixit-Stiglitz (1977) exogenous product differentiation model.
-
   * The Hotelling (1929) linear-city model of endogenous differentiation.
 
 

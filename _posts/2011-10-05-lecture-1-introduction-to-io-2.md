@@ -8,16 +8,9 @@ categories:
 
 ---
 In this lecture, we cover:
-
-
-
-
   * What is IO?
-
   * Monopoly
-
   * Static oligopoly
-
   * The structure of the rest of the course
 
 

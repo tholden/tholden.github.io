@@ -8,18 +8,10 @@ categories:
 
 ---
 In this lecture, we cover:
-
-
-
-
   * Why collude?
-
   * Examples and types of collusion.
-
   * Collusion in Dynamic Oligopoly.
-
   * The Folk Theorem.
-
   * Factors facilitating collusion.
 
 

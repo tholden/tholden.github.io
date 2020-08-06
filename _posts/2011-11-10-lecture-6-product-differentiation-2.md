@@ -8,16 +8,9 @@ categories:
 
 ---
 This week we look more at product differentiation, covering
-
-
-
-
   * Price discrimination in the Hotelling (1929) set-up. 
-
   * The Salop (1979) circular-city model, and how product proliferation may be used for entry deterrence.
-
   * The Shaked and Sutton (1982) quality choice model of vertical differentiation.
-
   * Some empirics, and other issues.
 
 

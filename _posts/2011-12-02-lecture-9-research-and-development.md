@@ -8,18 +8,10 @@ categories:
 
 ---
 In this lecture we look at R&amp;D, covering:
-
-
-
-
   * What R&amp;D does.
-
   * Whether competition helps or hinders R&amp;D.
-
   * Business stealing and entry deterrence.
-
   * Patent races.
-
   * Policy
 
 
