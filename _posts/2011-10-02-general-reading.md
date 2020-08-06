@@ -16,6 +16,7 @@ Tirole, <i>The Theory of Industrial Organization</i>
 
 <b>Free, online alternative</b>
 
+
 <a href="https://works.bepress.com/cgi/viewcontent.cgi?article=1022&amp;context=jeffrey_church">Church and Ware, <i>Industrial Organization</i></a>
 
 

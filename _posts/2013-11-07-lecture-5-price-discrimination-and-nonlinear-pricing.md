@@ -9,7 +9,6 @@ categories:
 ---
 In this lecture we look at some of the ways a monopolist can obtain higher profits than in the standard monopoly solution.  
 
- 
 
 <a href="https://www.scribd.com/doc/182451012/Lecture-5-Price-discrimination-and-nonlinear-pricing"  title="View Lecture 5: Price discrimination and  nonlinear pricing on Scribd">Lecture 5: Price discrimination and  nonlinear pricing</a>
 

@@ -9,7 +9,6 @@ categories:
 ---
 In this lecture we try to answer the question: "Will profits in reality be higher or lower than under Cournot?". We look at the origins of Cournot competition, and analyze collusion in dynamic oligopoly.  
 
- 
 
 <a href="https://www.scribd.com/doc/180607180/Lecture-4-Will-profits-in-reality-be-higher-or-lower-than-under-Cournot"  title="View Lecture 4: Will profits in reality be higher or lower than under Cournot? on Scribd">Lecture 4: Will profits in reality be higher or lower than under Cournot?</a>
 

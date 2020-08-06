@@ -21,9 +21,6 @@ In this lecture we finish last week's analysis of price discrimination by lookin
 
 We go on to analyse horizontal product differentiation models, which are models in which different consumers prefer different goods.
 
- 
-
-
 
 <a href="https://www.scribd.com/doc/186139182/Lecture-6-Profit-reducing-price-discrimination-and-product-differentiation"  title="View Lecture 6: Profit reducing price discrimination, and product differentiation on Scribd">Lecture 6: Profit reducing price discrimination, and product differentiation</a>
 
