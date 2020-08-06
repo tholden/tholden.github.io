@@ -9,20 +9,31 @@ categories:
 ---
 In this lecture we go through a model of vertical differentiation, then begin our final topic on advertising.  
 
- <div ><a href="https://www.scribd.com/doc/189823652/Lecture-8-Vertical-differentiation-and-advertising"  title="View Lecture 8: Vertical differentiation and advertising on Scribd">Lecture 8: Vertical differentiation and advertising</a></div><iframe data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" scrolling="no" src="//www.scribd.com/embeds/189823652/content?start_page=1&amp;view_mode=slideshow&amp;show_recommendations=false" width="100%"></iframe> 
+ 
 
- <div ><object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/cfRRwwmkDkg/0.jpg">
+<a href="https://www.scribd.com/doc/189823652/Lecture-8-Vertical-differentiation-and-advertising"  title="View Lecture 8: Vertical differentiation and advertising on Scribd">Lecture 8: Vertical differentiation and advertising</a>
+
+<iframe data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" scrolling="no" src="//www.scribd.com/embeds/189823652/content?start_page=1&amp;view_mode=slideshow&amp;show_recommendations=false" width="100%"></iframe> 
+
+ 
+
+<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/cfRRwwmkDkg/0.jpg">
 
 <param name="movie" value="https://www.youtube.com/v/cfRRwwmkDkg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
 
 <param name="bgcolor" value="#FFFFFF" />
 
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/cfRRwwmkDkg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object></div> 
+<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/cfRRwwmkDkg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
 
- <div ><object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/cZoP9YCIijk/0.jpg">
+ 
+
+ 
+
+<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/cZoP9YCIijk/0.jpg">
 
 <param name="movie" value="https://www.youtube.com/v/cZoP9YCIijk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
 
 <param name="bgcolor" value="#FFFFFF" />
 
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/cZoP9YCIijk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object></div>
+<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/cZoP9YCIijk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+
