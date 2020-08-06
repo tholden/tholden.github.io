@@ -11,6 +11,28 @@ main:
     url: /code/
   - title: "Teaching"
     url: /teaching/
+    children:
+    - title: "Mathematics for new PhD Economists"
+      url: /categories/mathematics-for-economists/
+    - title: "PhD Macroeconomics 2"
+      url: /categories/phd-macroeconomics-2/
+    - title: "Undergraduate Intermediate Microeconomics 2"
+      url: /categories/intermediate-microeconomics-2/
+    - title: "Undergraduate Industrial Organization"
+      url: /teaching/industrial-organization/
+      children:
+      - title: "2011-12"
+        url: /categories/industrial-organization-2011-12/
+      - title: "2012-13"
+        url: /categories/industrial-organization-2012-13/
+      - title: "2013-14"
+        url: /categories/industrial-organization-2013-14/
+      - title: "2014-15"
+        url: /categories/industrial-organization-2014-15/
+      - title: "2015-16"
+        url: /categories/industrial-organization-2015-16/
+      - title: "2016-17"
+        url: /categories/industrial-organization-2016-17/
   - title: "Blog"
     url: /categories/blog/
   - title: "Family Links"
