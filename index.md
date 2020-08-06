@@ -1,6 +1,8 @@
 ---
 title: "<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Dr Tom D. Holden</span>"
 layout: single
+share: false
+comments: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
