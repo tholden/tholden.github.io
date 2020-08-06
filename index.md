@@ -44,4 +44,8 @@ The papers below are either extremely rough, or are dormant (for now). There may
 
 [Latest working paper](/assets/files/learning_from_learners.pdf){: .btn .btn--warning} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1512.html){: .btn .btn--danger}
 
+### Others
+Further (sometimes rough!) papers can be seen in the following links:
+[My thesis](/thesis/){: .btn .btn--info} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger}
+
 ## Policy / Non-academic Papers
