@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Industrial Organization"
 permalink: /teaching/industrial-organization/
 ---
 I taught undergraduate Industrial Organization, in the following years:
