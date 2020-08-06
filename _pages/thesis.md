@@ -11,4 +11,6 @@ permalink: /thesis/
 >
 > Finally, in the third paper, “Efficient simulation of DSGE models with inequality constraints” (joint with Michael Paetz), we present a new algorithm for the simulation of models subject to inequality constraints, such as the zero lower bound on nominal interest rates. Our algorithm is shown to deliver higher accuracy than all other non-global algorithms, and leading speed. We go on to provide a number of applications of our algorithm.
 
-[Supervisor: Simon Wren-Lewis](https://www.economics.ox.ac.uk/other-economists-in-oxford/simon-wren-lewis){: .btn .btn--primary} [Download](/assets/files/DPhil.pdf){: .btn .btn--warning}
+[Supervisor: Simon Wren-Lewis](https://www.economics.ox.ac.uk/other-economists-in-oxford/simon-wren-lewis){: .btn .btn--primary}
+
+[Download](/assets/files/DPhil.pdf){: .btn .btn--warning}
