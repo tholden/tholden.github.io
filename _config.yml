@@ -31,7 +31,7 @@ repository               : "tholden/tholden.github.io"
 teaser                   : "/assets/images/salt/500x300.jpg"
 logo                     : "/assets/images/bio-photo/100x100.jpg"
 masthead_title           : "Dr Tom D. Holden"
-breadcrumbs              : false
+breadcrumbs              : true
 comments:
   provider               : "disqus"
   disqus:
