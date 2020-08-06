@@ -55,5 +55,8 @@ Rostagno (2014).
 [Latest working paper](https://github.com/tholden/EST-NLSS/raw/master/EstimationPaper.pdf){: .btn .btn--warning}
 
 ### Learning from learners
+> Traditional macroeconomic learning algorithms are misspecified when all agents are learning simultaneously. In this paper, we produce a number of learning algorithms that do not share this failing, and show that this enables them to learn almost any solution, for any parameters, implying learning cannot be used for equilibrium selection. As a by-product, we are able to show that when all agents are learning by traditional methods, all deep structural parameters of standard new-Keynesian models are identified, overturning a key result of Cochrane (2009; 2011). This holds irrespective of whether the central bank is following the Taylor principle, irrespective of whether the implied path is or is not explosive, and irrespective of whether agents’ beliefs converge. If shocks are observed then this result is trivial, so following Cochrane (2009) our analysis is carried out in the more plausible case in which agents do not observe shocks.
+
+[Latest working paper](/assets/files/learning_from_learners.pdf){: .btn .btn--warning} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1512.html){: .btn .btn--danger}
 
 ## Policy / Non-academic Papers
