@@ -1,6 +1,8 @@
 main:
   - title: "CV"
     url: /assets/files/cv.pdf
+  - title: "Code"
+    url: /code/
   - title: "Teaching"
     url: /teaching/
   - title: "Blog"
