@@ -5,8 +5,6 @@ main:
     url: /#publications
   - title: "Current Working Papers"
     url: /#current-working-papers
-  - title: "Other Papers"
-    url: /#other-papers
   - title: "Code"
     url: /code/
   - title: "Teaching"
