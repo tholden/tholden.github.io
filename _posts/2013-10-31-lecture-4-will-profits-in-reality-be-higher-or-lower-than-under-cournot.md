@@ -17,23 +17,11 @@ In this lecture we try to answer the question: "Will profits in reality be highe
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/mKMpSo-t5GY/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/mKMpSo-t5GY?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/mKMpSo-t5GY?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="mKMpSo-t5GY" provider="youtube" %}
 
  
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/hS0oH9TwvIk/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/hS0oH9TwvIk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/hS0oH9TwvIk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="hS0oH9TwvIk" provider="youtube" %}
 

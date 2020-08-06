@@ -17,23 +17,11 @@ In this lecture we go through a model of vertical differentiation, then begin ou
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/cfRRwwmkDkg/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/cfRRwwmkDkg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/cfRRwwmkDkg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="cfRRwwmkDkg" provider="youtube" %}
 
  
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/cZoP9YCIijk/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/cZoP9YCIijk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/cZoP9YCIijk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="cZoP9YCIijk" provider="youtube" %}
 

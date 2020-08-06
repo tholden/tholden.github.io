@@ -17,11 +17,5 @@ In this lecture we look at advertising with free-entry and advertising in oligop
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/i52H7FxwPNk/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/i52H7FxwPNk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/i52H7FxwPNk?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="i52H7FxwPNk" provider="youtube" %}
 

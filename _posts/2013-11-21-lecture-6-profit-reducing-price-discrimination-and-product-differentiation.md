@@ -23,23 +23,11 @@ dsq_thread_id:
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/BLK9I_Fjiqg/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/BLK9I_Fjiqg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/BLK9I_Fjiqg?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="BLK9I_Fjiqg" provider="youtube" %}
 
  
 
  
 
-<object width="800" height="665" class codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://i1.ytimg.com/vi/HMksATyEtpc/0.jpg">
-
-<param name="movie" value="https://www.youtube.com/v/HMksATyEtpc?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" />
-
-<param name="bgcolor" value="#FFFFFF" />
-
-<param name="allowFullScreen" value="true" /><embed width="800" height="665"  src="https://www.youtube.com/v/HMksATyEtpc?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"/></object>
+{% include video id="HMksATyEtpc" provider="youtube" %}
 
