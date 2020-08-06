@@ -8,22 +8,30 @@ categories:
   - Blog
 ---
 Traditional forms of proportional representation (PR) lead to one or more of the following undesirable features:
-<ul>
+
+
+
 	<li>large multi-member constituencies (undesirable as it leads to weaker ties to any particular MP, and because it inevitably results in very disparate regions being lumped in together),</li>
 	<li>MPs without a constituency, or with a "regional" constituency that overlaps standard ones (undesirable as such MPs have different workloads, and weakened responsibilities to represent those who elected them),</li>
 	<li>party lists which make it impossible to vote against particular individuals without voting against their party (undesirable as it should be the voters, not political parties, who have the final say as to which individuals get elected).</li>
-</ul>
+
+
+
 Given these problems, one might be tempted to abandon PR entirely. In this post, I will give a mechanism without any of these problems, which nonetheless comes close to proportionality.
 
 In my proposed mechanism, constituencies would remain their current size, and there would be no reason to reshape their boundaries that is not already present. On election day, voters would be presented with two ballot papers. The first paper would ask something along these lines:
 <blockquote>"Which of the candidates below would you be prepared to have as your MP? Please place an X next to the name of any candidate who you would be prepared to have representing you in parliament. You may place as many Xs as you wish, indicating your support for no, one or many candidates."</blockquote>
 Along the lines of standard <a href="https://en.wikipedia.org/wiki/Approval_voting">approval voting</a>, the number of Xs for each candidate would be summed up, in order to produce a percentage approval for each local candidate. The candidate with the highest approval would be selected if one of the following was true:
-<ul>
+
+
+
 	<li>At most one candidate obtained over 50% approval.</li>
 	<li>Two or more candidates obtained over 50% approval, but the one with the highest approval was not affiliated to a national political party.</li>
 	<li>Two or more candidates obtained over 50% approval, but all or these candidates except perhaps the one with the highest approval were not affiliated to a national political party.</li>
 	<li>The vote was for a by-election.</li>
-</ul>
+
+
+
 However, if none of these situations obtain, so multiple candidates from national political parties obtained over 50% approval, then each of them would be considered a possibility, and the one selected would be determined by trying to match the distribution of MPs to voters overall preferences, as determined by the second ballot paper.
 
 This second ballot paper would ask something along these lines:
