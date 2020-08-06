@@ -2,12 +2,10 @@
 
 title: 'Lecture 3.1: Welfare'
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 In this half of the lecture we introduce social welfare functions and analyse their origins and their optima. We also look at the economics of voting. 
-
 
 <a title="View Lecture 3.1 Welfare on Scribd" href="https://www.scribd.com/doc/126645343/Lecture-3-1-Welfare" >Lecture 3.1 Welfare</a>
 

@@ -2,12 +2,10 @@
 
 title: Problem set 3
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 The third problem set, on the VCG mechanism, intertemporal choice and adverse selection. 
-
 
 <a title="View Problem Set 3 on Scribd" href="https://www.scribd.com/doc/130442723/Problem-Set-3" >Problem Set 3</a>
 

@@ -2,12 +2,10 @@
 
 title: Problem set 4
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 In this problem set we look at the issues that arise from asymmetric information.  
-
 
 <a title="View Problem Set 4 on Scribd" href="https://www.scribd.com/doc/138360232/Problem-Set-4" >Problem Set 4</a>
 

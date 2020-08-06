@@ -2,12 +2,10 @@
 
 title: 'Lecture 1: Uncertainty 1'
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 In this first lecture, I introduce the course, then we go on to look at rational choice under uncertainty. We'll discuss expected utility, risk aversion, risk premia, and some of the many "paradoxes" of people's behaviour under uncertainty. There'll be a chance to win some money too!  
-
 
 <a title="View Lecture 1 Uncertainty 1 on Scribd" href="https://www.scribd.com/doc/124480407/Lecture-1-Uncertainty-1" >Lecture 1 Uncertainty 1</a>
 

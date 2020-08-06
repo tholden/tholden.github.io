@@ -4,7 +4,6 @@ title: 'Lecture 7: More on product differentiation'
 categories:
   - Industrial Organization 2012-13
 
-
 dsq_thread_id:
   - "6176243774"
 

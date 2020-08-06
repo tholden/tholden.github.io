@@ -4,11 +4,8 @@ title: 'Lecture 9: More on advertising'
 categories:
   - Industrial Organization 2013-14
 
-
-
 ---
 In this lecture we look at advertising with free-entry and advertising in oligopoly, before concluding with some empirics.  
-
 
 <a href="https://www.scribd.com/doc/199614095/Lecture-9-More-on-advertising"  title="View Lecture 9: More on advertising on Scribd">Lecture 9: More on advertising</a>
 
@@ -16,9 +13,5 @@ In this lecture we look at advertising with free-entry and advertising in oligop
 
  
 
-
-
 {% include video id="i52H7FxwPNk" provider="youtube" %}
-
-
 

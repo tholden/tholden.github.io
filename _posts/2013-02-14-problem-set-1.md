@@ -2,12 +2,10 @@
 
 title: Problem set 1
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 Below is the first problem set, on uncertainty. 
-
 
 <a title="View Problem Set 1 on Scribd" href="https://www.scribd.com/doc/125515878/Problem-Set-1" >Problem Set 1</a>
 

@@ -4,11 +4,8 @@ title: Mock mid-term multiple choice test
 categories:
   - Industrial Organization 2013-14
 
-
-
 ---
 Below is the mock mid-term multiple choice test.  
-
 
 <a title="View Mock mid-term multiple choice test on Scribd" href="https://www.scribd.com/doc/182451011/Mock-mid-term-multiple-choice-test" >Mock mid-term multiple choice test</a>
 

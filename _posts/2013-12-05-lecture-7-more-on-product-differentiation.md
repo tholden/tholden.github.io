@@ -4,15 +4,9 @@ title: 'Lecture 7: More on product differentiation'
 categories:
   - Industrial Organization 2013-14
 
-
-
 ---
 
-
-
-
 In this lecture we look further at horizontal product differentiation models. The slides we did not cover in the lecture go over vertical differentiation models, and introduce advertising.
-
 
 <a href="https://www.scribd.com/doc/189693933/Lecture-7-More-on-product-differentiation"  title="View Lecture 7: More on product differentiation on Scribd">Lecture 7: More on product differentiation</a>
 
@@ -20,19 +14,11 @@ In this lecture we look further at horizontal product differentiation models. Th
 
  
 
-
-
 {% include video id="Rygi6QPK79w" provider="youtube" %}
 
-
-
  
 
  
-
-
 
 {% include video id="YdInL4xt9xg" provider="youtube" %}
-
-
 

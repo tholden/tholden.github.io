@@ -2,12 +2,10 @@
 
 title: 'Lecture 8: Auctions'
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 In this lecture we examine different types of auctions, considerations in optimal auction design, and some examples of real world auctions.  
-
 
 <a title="View Lecture 8 Auctions on Scribd" href="https://www.scribd.com/doc/139143521/Lecture-8-Auctions" >Lecture 8 Auctions</a>
 

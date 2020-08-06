@@ -2,12 +2,10 @@
 
 title: Problem set 5
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 The final problem set of the semester, this time on auctions.  
-
 
 <a title="View Problem Set 5 on Scribd" href="https://www.scribd.com/doc/141259509/Problem-Set-5" >Problem Set 5</a> by <a title="View TomHolden's profile on Scribd" href="https://www.scribd.com/TomHolden" >TomHolden</a>
 

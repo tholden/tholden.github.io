@@ -4,11 +4,8 @@ title: Mock end of term test
 categories:
   - Industrial Organization 2013-14
 
-
-
 ---
 Below is the mock for the 2013 end of term test. The actual test will be the same, other than having different numbers in places.   
-
 
 <a title="View Mock End of Term Test 2013 on Scribd" href="https://www.scribd.com/doc/189718952/Mock-End-of-Term-Test-2013" >Mock End of Term Test 2013</a>
 

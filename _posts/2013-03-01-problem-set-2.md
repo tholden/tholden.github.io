@@ -2,12 +2,10 @@
 
 title: Problem set 2
 
-
 categories:
   - Intermediate Microeconomics 2
 ---
 The second problem set, on welfare, externalities and public goods. 
-
 
 <a title="View Problem Set 2 on Scribd" href="https://www.scribd.com/doc/127860802/Problem-Set-2" >Problem Set 2</a>
 
