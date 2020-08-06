@@ -11,7 +11,15 @@ In this lecture, we cover:
 
 
 
-<li>What is IO?</li><li>Monopoly</li><li>Static oligopoly</li><li>The structure of the rest of the course</li>
+
+  * What is IO?
+
+  * Monopoly
+
+  * Static oligopoly
+
+  * The structure of the rest of the course
+
 
 The slides follow:
 

@@ -11,9 +11,15 @@ Traditional forms of proportional representation (PR) lead to one or more of the
 
 
 
-    <li>large multi-member constituencies (undesirable as it leads to weaker ties to any particular MP, and because it inevitably results in very disparate regions being lumped in together),</li>
-    <li>MPs without a constituency, or with a "regional" constituency that overlaps standard ones (undesirable as such MPs have different workloads, and weakened responsibilities to represent those who elected them),</li>
-    <li>party lists which make it impossible to vote against particular individuals without voting against their party (undesirable as it should be the voters, not political parties, who have the final say as to which individuals get elected).</li>
+    
+  * large multi-member constituencies (undesirable as it leads to weaker ties to any particular MP, and because it inevitably results in very disparate regions being lumped in together),
+
+    
+  * MPs without a constituency, or with a "regional" constituency that overlaps standard ones (undesirable as such MPs have different workloads, and weakened responsibilities to represent those who elected them),
+
+    
+  * party lists which make it impossible to vote against particular individuals without voting against their party (undesirable as it should be the voters, not political parties, who have the final say as to which individuals get elected).
+
 
 
 
@@ -25,10 +31,18 @@ Along the lines of standard <a href="https://en.wikipedia.org/wiki/Approval_voti
 
 
 
-    <li>At most one candidate obtained over 50% approval.</li>
-    <li>Two or more candidates obtained over 50% approval, but the one with the highest approval was not affiliated to a national political party.</li>
-    <li>Two or more candidates obtained over 50% approval, but all or these candidates except perhaps the one with the highest approval were not affiliated to a national political party.</li>
-    <li>The vote was for a by-election.</li>
+    
+  * At most one candidate obtained over 50% approval.
+
+    
+  * Two or more candidates obtained over 50% approval, but the one with the highest approval was not affiliated to a national political party.
+
+    
+  * Two or more candidates obtained over 50% approval, but all or these candidates except perhaps the one with the highest approval were not affiliated to a national political party.
+
+    
+  * The vote was for a by-election.
+
 
 
 
