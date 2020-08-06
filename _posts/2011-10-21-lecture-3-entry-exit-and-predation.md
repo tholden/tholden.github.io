@@ -13,26 +13,22 @@ In this lecture we cover:
 
 
   * A few footnotes to last week.
-<li>Entry deterrence. 
+  * Entry deterrence. 
 
 
-  * Dixit-Spence.
+    * Dixit-Spence.
 
-  * Fudenburg and Tirole.
-
-
-</li><li>Predatory pricing. 
+    * Fudenburg and Tirole.
 
 
-  * Deep pockets.
-
-  * Signalling.
-
-  * Other models.
+  * Predatory pricing. 
 
 
-</li>
+    * Deep pockets.
 
+    * Signalling.
+
+    * Other models.
 
 
 
