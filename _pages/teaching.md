@@ -2,7 +2,6 @@
 title: "Teaching"
 permalink: /teaching/
 ---
-
 I have taught the following courses, amongst others:
 
   * [Mathematics for new PhD Economists (mostly real analysis)](/categories/mathematics-for-economists/)
@@ -21,8 +20,9 @@ I have taught the following courses, amongst others:
       * Estimating non-linear models
       * Occasionally binding constraints
 
-My past PhD students include:
+My past PhD and post-doc students include:
 
-  * [Jonathan Swarbrick](http://www.jonathanswarbrick.co.uk/) - Placed at the Bank of Canada.
-  * [Stylianos Tsiaras](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2019-2020/TSIARAS-Stylianos) - Placed at EUI as a Max Weber Fellow.
-  * [Dmitry Brizhatyuk](https://dbrizhatyuk.github.io/) (I was a dissertation committee member) - Placed at Moody's Analytics.
+  * [Jonathan Swarbrick](http://www.jonathanswarbrick.co.uk/). University of Surrey PhD student. Placed at the Bank of Canada.
+  * [Stylianos Tsiaras](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2019-2020/TSIARAS-Stylianos). University of Surrey PhD student. Placed at EUI as a Max Weber Fellow.
+  * [Dmitry Brizhatyuk](https://dbrizhatyuk.github.io/). University of Washington PhD student. (I was a dissertation committee member.) Placed at Moody's Analytics.
+  * [Shifu Jiang](https://sites.google.com/view/shifujiang/home). University of Surrey post-doc student. Placed at the Hong Kong Monetary Authority.
