@@ -11,9 +11,17 @@ dsq_thread_id:
 ---
 
 
-<p>In this lecture we finish last week's analysis of price discrimination by looking at some cases in which price discrimination actually reduces profits.</p>
 
-<p>We go on to analyse horizontal product differentiation models, which are models in which different consumers prefer different goods.</p> 
+
+In this lecture we finish last week's analysis of price discrimination by looking at some cases in which price discrimination actually reduces profits.
+
+
+
+
+
+We go on to analyse horizontal product differentiation models, which are models in which different consumers prefer different goods.
+
+ 
 
 
 

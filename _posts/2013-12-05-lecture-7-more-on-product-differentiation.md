@@ -9,7 +9,11 @@ categories:
 ---
 
 
-<p>In this lecture we look further at horizontal product differentiation models. The slides we did not cover in the lecture go over vertical differentiation models, and introduce advertising.</p> 
+
+
+In this lecture we look further at horizontal product differentiation models. The slides we did not cover in the lecture go over vertical differentiation models, and introduce advertising.
+
+ 
 
 
 
