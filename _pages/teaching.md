@@ -7,7 +7,7 @@ I have taught the following courses, amongst others:
   * [Mathematics for new PhD Economists (mostly real analysis)](/categories/mathematics-for-economists/)
   * [PhD Macroeconomics 2](/categories/phd-macroeconomics-2/)
   * [Undergraduate Intermediate Microeconomics 2](/categories/intermediate-microeconomics-2/)
-  * Undergraduate Industrial Organization, in the following years:
+  * [Undergraduate Industrial Organization](/teaching/industrial-organization), in the following years:
       * [2011-12](/categories/industrial-organization-2011-12/)
       * [2012-13](/categories/industrial-organization-2012-13/)
       * [2013-14](/categories/industrial-organization-2013-14/)
