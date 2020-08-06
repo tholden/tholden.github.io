@@ -4,7 +4,7 @@ permalink: /other-papers/
 ---
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
 
-## Tractable estimation and smoothing of highly non-linear dynamic state-space models.
+### Tractable estimation and smoothing of highly non-linear dynamic state-space models.
 > We present an algorithm for tractably estimating non-linear dynamic
 models, such as DSGE models with occasionally binding constraints, or stochastic
 volatility models. The algorithm presents an extended skew-t, augmented-state,
@@ -24,4 +24,4 @@ Rostagno (2014).
 
 [Latest working paper](https://github.com/tholden/EST-NLSS/raw/master/EstimationPaper.pdf){: .btn .btn--warning}
 
-## Learning from learners
+### Learning from learners
