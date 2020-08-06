@@ -19,11 +19,19 @@ categories:
 
  
 
+
+
 {% include video id="Rygi6QPK79w" provider="youtube" %}
 
+
+
  
 
  
+
+
 
 {% include video id="YdInL4xt9xg" provider="youtube" %}
+
+
 

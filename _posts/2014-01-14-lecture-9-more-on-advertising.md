@@ -17,5 +17,9 @@ In this lecture we look at advertising with free-entry and advertising in oligop
 
  
 
+
+
 {% include video id="i52H7FxwPNk" provider="youtube" %}
+
+
 

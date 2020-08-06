@@ -17,11 +17,19 @@ In this lecture we look at some of the ways a monopolist can obtain higher profi
 
  
 
+
+
 {% include video id="pYvWYrOPP1Y" provider="youtube" %}
 
+
+
  
 
  
+
+
 
 {% include video id="D8AHtC2M8_4" provider="youtube" %}
+
+
 

@@ -17,11 +17,19 @@ In this lecture we go further into the consequences of Bertrand and Cournot comp
 
  
 
+
+
 {% include video id="Q-6nuiidaHs" provider="youtube" %}
 
+
+
  
 
  
+
+
 
 {% include video id="UlTHF3QAWzI" provider="youtube" %}
+
+
 

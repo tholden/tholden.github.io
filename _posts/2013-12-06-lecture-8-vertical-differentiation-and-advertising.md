@@ -17,11 +17,19 @@ In this lecture we go through a model of vertical differentiation, then begin ou
 
  
 
+
+
 {% include video id="cfRRwwmkDkg" provider="youtube" %}
 
+
+
  
 
  
+
+
 
 {% include video id="cZoP9YCIijk" provider="youtube" %}
+
+
 

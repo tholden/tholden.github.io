@@ -23,11 +23,19 @@ dsq_thread_id:
 
  
 
+
+
 {% include video id="BLK9I_Fjiqg" provider="youtube" %}
 
+
+
  
 
  
+
+
 
 {% include video id="HMksATyEtpc" provider="youtube" %}
+
+
 

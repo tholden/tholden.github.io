@@ -23,7 +23,14 @@ In <a href="https://www.tholden.org/wp-content/uploads/2016/12/IO-2016-17-topic-
 
 
 Lecture:
+
+
 {% include video id="nQuVXb9mFv8" provider="youtube" %}
 
+
+
 Class:
+
+
 {% include video id="YXHPBnCVVVc" provider="youtube" %}
+

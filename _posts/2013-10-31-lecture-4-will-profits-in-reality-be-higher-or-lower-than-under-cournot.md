@@ -17,11 +17,19 @@ In this lecture we try to answer the question: "Will profits in reality be highe
 
  
 
+
+
 {% include video id="mKMpSo-t5GY" provider="youtube" %}
 
+
+
  
 
  
+
+
 
 {% include video id="hS0oH9TwvIk" provider="youtube" %}
+
+
 

@@ -17,7 +17,11 @@ In this lecture, we start with a game theory refresher, and then we move on to t
 
 
 
+
+
 {% include video id="fRrZmPiKSF4" provider="youtube" %}
+
+
 
  
 
@@ -25,5 +29,9 @@ In this lecture, we start with a game theory refresher, and then we move on to t
 
 
 
+
+
 {% include video id="-jQRu9o-Bh4" provider="youtube" %}
+
+
 

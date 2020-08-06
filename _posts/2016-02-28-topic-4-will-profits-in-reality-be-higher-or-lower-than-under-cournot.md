@@ -23,7 +23,14 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-4
 
 
 Lecture:
+
+
 {% include video id="ukHyrJfy7uY" provider="youtube" %}
 
+
+
 Class:
+
+
 {% include video id="2sFXC0Fm-vY" provider="youtube" %}
+

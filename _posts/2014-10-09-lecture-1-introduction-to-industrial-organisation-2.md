@@ -21,7 +21,14 @@ In <a href="https://www.tholden.org/wp-content/uploads/2014/10/IO-2014-lecture-1
 
 
 Lecture:
+
+
 {% include video id="_jqTzoEYy6I" provider="youtube" %}
 
+
+
 Class:
+
+
 {% include video id="akXR1f4Ps-4" provider="youtube" %}
+

@@ -17,11 +17,19 @@ In this lecture, I give a basic overview of IO, and we do some "revision" of dem
 
 
 
+
+
 {% include video id="Gq9eChq7k_w" provider="youtube" %}
+
+
 
  
 
 
 
+
+
 {% include video id="z-_TuqHKw7Q" provider="youtube" %}
+
+
 
