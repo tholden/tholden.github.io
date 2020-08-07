@@ -40,6 +40,8 @@ The papers below have been replaced by newer papers taking different approaches 
 
 ### Data consistent modelling of medium-frequency cycles and their origins
 
+### Online appendices to “Reconciling near trend-stationary growth with medium-frequency cycles” and “Data consistent modelling of medium-frequency cycles and their origins”
+
 ## Rought or Dormant Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
 
