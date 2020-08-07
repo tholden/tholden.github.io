@@ -23,7 +23,7 @@ toc_sticky: true
 *The views expressed on this website are the private views of Tom D. Holden and do not represent the views of the Deutsche Bundesbank, the Eurosystem or its staff.*
 
 ## Fields
-Working on:
+Tom works on:
   * theoretical and applied macroeconomics,
   * monetary economics,
   * dynamic stochastic general equilibrium (DSGE) modelling,
