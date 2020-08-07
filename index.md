@@ -67,7 +67,7 @@ The papers below have been replaced by newer papers taking different approaches 
 
 [Working paper PDF](/assets/files/mfc3.pdf){: .btn .btn--danger}
 
-## Rought or Dormant Papers
+## Rough or Dormant Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
 
 ### Tractable estimation and smoothing of highly non-linear dynamic state-space models (2017)
