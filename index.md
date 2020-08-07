@@ -70,6 +70,12 @@ The papers below have been replaced by newer papers taking different approaches 
 
 [Working paper PDF](/assets/files/mfc3.pdf){: .btn .btn--danger}
 
+### Efficient simulation of DSGE models with inequality constraints
+**Revise & resubmit, Journal of Economic Dynamics and Control, lapsed. University of Surrey working paper (2012).**
+> This paper presents a fast, simple and intuitive algorithm for simulation of linear dynamic stochastic general equilibrium models with inequality constraints. The algorithm handles both the computation of impulse responses, and stochastic simulation, and can deal with arbitrarily many bounded variables. Furthermore, the algorithm is able to capture the precautionary motive associated with the risk of hitting such a bound. To illustrate the usefulness and efficiency of this algorithm we provide a variety of applications including to models incorporating a zero lower bound (ZLB) on nominal interest rates. Our procedure is much faster than comparable methods and can readily handle large models. We therefore expect this algorithm to be useful in a wide variety of applications.
+
+[Working paper PDF](/assets/files/HoldenPaetz.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1612.html){: .btn .btn--info}
+
 ## Rough or Dormant Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
 
@@ -95,4 +101,5 @@ Further (sometimes rough!) papers can be seen in the following links:
 ### Universal basic income as a tool for tax and benefit reform
 **Social Liberal Forum Publication Number 8 (2017) & "Four go in search of big ideas", Edited by Helen Flynn (2018)**
 > Universal basic income (UBI) is often presented as a way of supporting an increase in the fraction of population not in full time employment. Here, I wish to outline an alternative vision based upon using UBI to simplify the tax and benefit system and enhance work incentives. Rather than funding an increase in the number of people without jobs, my proposed system is designed to produce higher levels of employment. By replacing many existing benefits with a UBI, families will no longer need to worry about their benefits being withdrawn as they start earning more, giving them stronger incentives to work, and pulling thousands out of the poverty trap created by the existing benefits system. Furthermore, while the poorest will obtain the largest direct benefit from the proposed system, its wider benefits will be shared by people of all incomes due to reduced economic distortions.
+
 [Publisher's version](https://www.socialliberal.net/universal_basic_income_as_a_tool_for_tax_and_benefit_reform){: .btn .btn--success} [Published book](https://www.socialliberal.net/big_ideas_buy){: .btn .btn--warning} [Working paper PDF](/assets/files/UBI.pdf){: .btn .btn--danger}
