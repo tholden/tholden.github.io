@@ -37,10 +37,13 @@ Working on:
 The papers below have been replaced by newer papers taking different approaches to the same topic. There may still be something of interest in them.
 
 ### Reconciling near trend-stationary growth with medium-frequency cycles
+> Existing models of dynamic endogenous growth generate implausibly large trend breaks in output when augmented with standard business cycle shocks. This paper presents a model without this deficiency, yet still capable of generating large medium-frequency fluctuations around the trend. Ensuring the robustness of the trend requires that we eliminate the scale effects and knife edge assumptions that plague most growth models. In our model, medium-frequency fluctuations arise from changes in the proportion of industries producing patent protected products. However, variations in the number of firms within each industry ensure that process improvement incentives remain roughly constant.
 
 ### Data consistent modelling of medium-frequency cycles and their origins
+> This paper presents four stylized facts on medium-frequency cycles, then builds and estimates a model capable of replicating both these facts and standard business-cycle ones. We show that GDP returns to trend at long lags, that aggregate mark-ups always lead output, and are only counter-cyclical at low frequencies, and that medium-frequency cycles are larger in countries with longer patent protection. Since traditional dynamic endogenous growth models generate large trend-breaks following business-cycle shocks, our model is based on that of Holden (2013a). After estimation, a financial-type shock to the stock of ideas emerges as the key driver of the medium-frequency cycle.
 
 ### Online appendices to “Reconciling near trend-stationary growth with medium-frequency cycles” and “Data consistent modelling of medium-frequency cycles and their origins”
+> This paper presents the online appendices to Holden (2013a) and Holden (2013b). We discuss the derivation of the first order and free-entry conditions, the steady state level of relative productivity of non-protected industries, and the nature of the inventor-firm bargaining procedure. We go on to present the full equations of both models considered, details of the data used for estimation, and the results of this estimation procedure.
 
 ## Rought or Dormant Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
