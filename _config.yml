@@ -29,7 +29,7 @@ description              : "Personal website of Dr Tom D. Holden, researcher and
 url                      : "https://tholden.github.io"
 repository               : "tholden/tholden.github.io"
 teaser                   : "/assets/images/salt/500x300.jpg"
-logo                     : "/assets/images/bio-photo/100x100.jpg"
+logo                     : "/assets/images/bio-photo/200x200.jpg"
 masthead_title           : "Dr Tom D. Holden"
 breadcrumbs              : true
 comments:
@@ -77,7 +77,7 @@ analytics:
 # Site Author
 author:
   name     : "Dr Tom D. Holden"
-  avatar   : "/assets/images/bio-photo/400x400.jpg"
+  avatar   : "/assets/images/bio-photo/800x800.jpg"
   bio      : "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013."
   location : "Frankfurt am Main, Germany"
   links:
