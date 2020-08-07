@@ -23,7 +23,7 @@ locale                   : "en-GB"
 title                    : "Dr Tom Dumitru Holden"
 title_separator          : "-"
 subtitle                 : "Researcher, macroeconomist. Deutsche Bundesbank research department."
-name                     : "Dr Tom D. Holden"
+name                     : "Dr Tom Dumitru Holden"
 email                    : "thomas.holden@gmail.com"
 description              : "Personal website of Dr Tom D. Holden, researcher and macroeconomist in the Deutsche Bundesbank's research department."
 url                      : "https://tholden.github.io"
@@ -76,7 +76,7 @@ analytics:
 
 # Site Author
 author:
-  name     : "Dr Tom D. Holden"
+  name     : "Dr Tom Dumitru Holden"
   avatar   : "/assets/images/bio-photo/800x800.jpg"
   bio      : "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013."
   location : "Frankfurt am Main, Germany"
