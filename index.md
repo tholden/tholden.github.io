@@ -85,11 +85,18 @@ Tom works on:
 
 [Slides](/assets/files/SlidesAggregationBias.pdf){: .btn .btn--danger}
 
-### Medium-frequency cycles in a stationary world
-
-### A Hawkes model of the transmission of European sovereign default risk
-
+### Quantifying the transmission of European sovereign default risk
+***Latest working paper, 2018***
+> We build a non-stationary Hawkes model of sovereign credit risk for seven European countries, and estimate it on CDS data from the run-up to the Greek default. We model a country's credit risk as partly driven by a weighted combination of risks across countries. We find Spain and Portugal are the chief drivers of this component, with Greece's contribution also significant. Greece and Portugal are found to be particularly sensitive to external risk, with a Greek default 35\% less likely in our period without shocks elsewhere. Our novel maximum-likelihood procedure permits tractable estimation of high-dimensional Hawkes models with unobserved events.
 [Co-author: Ana-Maria Dumitru](https://sites.google.com/site/anamariahdumitru/){: .btn .btn--primary}
+
+[Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger}
+
+### Medium-frequency cycles in a stationary world
+***Latest working paper, 2016***
+> Existing models of endogenous growth generate implausibly large trend breaks in output when augmented with standard business cycle shocks. This paper presents a model without this deficiency, yet still capable of generating large medium-frequency fluctuations around the trend. Ensuring the robustness of the trend requires that we eliminate the strong scale effects and knife edge assumptions that plague most growth models. In our model, medium-frequency fluctuations arise from changes in the proportion of industries producing patent protected products. However, variations in the number of firms within each industry ensure that process improvement incentives remain roughly constant. An estimated version of the model matches well the observed pattern of medium frequency cycles.
+
+[Working paper PDF](/assets/files/NewMFC.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesNewMFC.pdf){: .btn .btn--danger}
 
 ## Replaced Papers
 The papers below have been replaced by newer papers taking different approaches to the same topic. There may still be something of interest in them.
