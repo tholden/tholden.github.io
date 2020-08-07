@@ -13,4 +13,4 @@ permalink: /thesis/
 
 [Supervisor: Simon Wren-Lewis](https://www.economics.ox.ac.uk/other-economists-in-oxford/simon-wren-lewis){: .btn .btn--primary}
 
-[Download](/assets/files/DPhil.pdf){: .btn .btn--warning}
+[Thesis PDF](/assets/files/DPhil.pdf){: .btn .btn--warning}
