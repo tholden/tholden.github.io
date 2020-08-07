@@ -93,6 +93,12 @@ Tom works on:
 
 [Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger} [Working paper on RePEc with earlier title](https://ideas.repec.org/p/zbw/esconf/168431.html){: .btn .btn--info}
 
+### Catch-up cycles
+***Latest working paper, 2018***
+> We build a DSGE model of technological catch-up in countries behind the global frontier. We go on to estimate it on Spanish and U.S. data, with the U.S. acting as the technological leader, and Spain as the follower. The model generates highly persistent movements in productivity in the emerging economy from un-persistent shocks to the technological leader, helping to explain Spanish data. Unlike the prior literature, our model would generate permanent productivity gaps between the global technological leader and other economies even were the leader’s technological progress to halt, helping to explain why the great recession has not been accompanied by convergence in productivity. This is due to the diminishing returns to technological transfer in our model. It is further exacerbated by competition between firms in the following economy, which reduce each firm’s share of production profits. We draw tentative conclusions on policies to enhance productivity in countries behind the global frontier.
+
+[Working paper PDF](/assets/files/CatchUpCycles.pdf){: .btn .btn--danger}
+
 ### Medium-frequency cycles in a stationary world
 ***Latest working paper, 2016***
 > Existing models of endogenous growth generate implausibly large trend breaks in output when augmented with standard business cycle shocks. This paper presents a model without this deficiency, yet still capable of generating large medium-frequency fluctuations around the trend. Ensuring the robustness of the trend requires that we eliminate the strong scale effects and knife edge assumptions that plague most growth models. In our model, medium-frequency fluctuations arise from changes in the proportion of industries producing patent protected products. However, variations in the number of firms within each industry ensure that process improvement incentives remain roughly constant. An estimated version of the model matches well the observed pattern of medium frequency cycles.
