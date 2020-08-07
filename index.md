@@ -58,7 +58,7 @@ Tom works on:
 [Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
-***Reject & resubmit, Quantitative Economics**
+***Reject & resubmit, Quantitative Economics***
 
 ***Latest working paper, 2016***
 > We construct the first algorithm for the perfect foresight solution of otherwise linear models with occasionally binding constraints, with fixed terminal conditions, that is guaranteed to return a solution in finite time, if one exists. We also provide a proof of the inescapability of the “curse of dimensionality” for this problem when nothing is known a priori about the model. We go on to extend our algorithm to deal with stochastic simulation, other non-linearities, and future uncertainty. We show that the resulting algorithm produces fast and accurate simulations of a range of models with occasionally binding constraints.
