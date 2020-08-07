@@ -26,7 +26,7 @@ subtitle                 : "Researcher, macroeconomist. Deutsche Bundesbank rese
 name                     : "Dr Tom Dumitru Holden"
 email                    : "thomas.holden@gmail.com"
 description              : "Personal website of Dr Tom D. Holden, researcher and macroeconomist in the Deutsche Bundesbank's research department."
-url                      : "https://tholden.github.io"
+url                      : "https://www.tholden.org"
 repository               : "tholden/tholden.github.io"
 teaser                   : "/assets/images/salt/500x300.jpg"
 logo                     : "/assets/images/bio-photo/200x200.jpg"
@@ -53,7 +53,7 @@ github_username          : "tholden"
 og_image                 : "/assets/images/bio-photo/800x800.jpg"
 social:
   links: # An array of links to social media profiles
-    - "https://tholden.github.io/#"
+    - "https://www.tholden.org/#"
     - "https://www.bundesbank.de/en/tom-holden"
     - "https://www.surrey.ac.uk/people/tom-holden"
     - "https://orcid.org/0000-0002-6233-7990"
@@ -83,7 +83,7 @@ author:
   links:
     - label: "Homepage"
       icon:  "fas fa-fw fa-home"
-      url:   "https://tholden.github.io/#"
+      url:   "https://www.tholden.org/#"
     - label: "Email"
       icon:  "fas fa-fw fa-envelope"
       url:   "mailto:thomas.holden@gmail.com"
@@ -132,7 +132,7 @@ footer:
   links:
     - label: "Homepage"
       icon:  "fas fa-fw fa-home"
-      url:   "https://tholden.github.io/#"
+      url:   "https://www.tholden.org/#"
     - label: "Email"
       icon:  "fas fa-fw fa-envelope"
       url:   "mailto:thomas.holden@gmail.com"
