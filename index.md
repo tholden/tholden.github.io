@@ -70,8 +70,12 @@ Tom works on:
 [Working paper PDF](/assets/files/ARobustMonetaryRule.pdf){: .btn .btn--danger}
 
 ### Business cycles in space
+***Latest working paper, 2020***
+> Many important shocks in the real world are correlated not only in time, but also across some notion of space. This may be physical space, or the space of product, firm or household types. As a result of this spatial correlation, aggregate volatility emerges naturally from idiosyncratic shocks. In this paper, we introduce a tractable framework that allows for such shocks without necessitating the discretisation of space, or a departure from perturbation approximation. As a lead example, we construct a dynamic, stochastic, general equilibrium model of economic geography (DSGEEG). This model features population movement, firm dynamics and semi-endogenous growth. Using it, we show how transitory, spatially located productivity shocks can lead to persistent movements in population, helping to explain internal migration patterns in the U.S., and regional wage and investment dynamics. As an additional theoretical contribution, we derive conditions for the existence of continuous-in-space shock processes on a range of spaces of economic interest.
 
 [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
+
+[Working paper PDF](/assets/files/InSpace.pdf){: .btn .btn--danger}
 
 ### Medium-frequency cycles in a stationary world
 
