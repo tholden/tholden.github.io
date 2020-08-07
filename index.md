@@ -31,6 +31,9 @@ Working on:
 
 ## Current Working Papers
 
+## Replaced Papers
+The papers below have been replaced by newer papers taking different approaches to the same topic. There may still be something of interest in them.
+
 ## Other Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
 
