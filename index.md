@@ -31,8 +31,6 @@ Working on:
 
 ## Current Working Papers
 
-##
-
 ## Other Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
 
@@ -44,11 +42,11 @@ The papers below are either extremely rough, or are dormant (for now). There may
 ### Learning from learners
 > Traditional macroeconomic learning algorithms are misspecified when all agents are learning simultaneously. In this paper, we produce a number of learning algorithms that do not share this failing, and show that this enables them to learn almost any solution, for any parameters, implying learning cannot be used for equilibrium selection. As a by-product, we are able to show that when all agents are learning by traditional methods, all deep structural parameters of standard new-Keynesian models are identified, overturning a key result of Cochrane (2009; 2011). This holds irrespective of whether the central bank is following the Taylor principle, irrespective of whether the implied path is or is not explosive, and irrespective of whether agents’ beliefs converge. If shocks are observed then this result is trivial, so following Cochrane (2009) our analysis is carried out in the more plausible case in which agents do not observe shocks.
 
-[Latest working paper](/assets/files/learning_from_learners.pdf){: .btn .btn--warning} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1512.html){: .btn .btn--danger}
+[Latest working paper](/assets/files/learning_from_learners.pdf){: .btn .btn--warning} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1512.html){: .btn .btn--info}
 
 ### Others
 Further (sometimes rough!) papers can be seen in the following links:
 
-[My thesis](/thesis/){: .btn .btn--info} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger}
+[My thesis](/thesis/){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--info} 
 
 ## Policy / Non-academic Papers
