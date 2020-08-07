@@ -5,7 +5,7 @@ main:
     url: /#publications
   - title: "Current Working Papers"
     url: /#current-working-papers
-  - title: "Email:"
+  - title: "Email"
     url: "mailto:thomas.holden@gmail.com"
   - title: "Code"
     url: /code/
