@@ -97,6 +97,8 @@ Tom works on:
 ***Latest working paper, 2018***
 > We build a DSGE model of technological catch-up in countries behind the global frontier. We go on to estimate it on Spanish and U.S. data, with the U.S. acting as the technological leader, and Spain as the follower. The model generates highly persistent movements in productivity in the emerging economy from un-persistent shocks to the technological leader, helping to explain Spanish data. Unlike the prior literature, our model would generate permanent productivity gaps between the global technological leader and other economies even were the leader’s technological progress to halt, helping to explain why the great recession has not been accompanied by convergence in productivity. This is due to the diminishing returns to technological transfer in our model. It is further exacerbated by competition between firms in the following economy, which reduce each firm’s share of production profits. We draw tentative conclusions on policies to enhance productivity in countries behind the global frontier.
 
+[Co-author for next version: G. Kemal Ozhan](https://sites.google.com/site/gozhan/){: .btn .btn--primary}
+
 [Working paper PDF](/assets/files/CatchUpCycles.pdf){: .btn .btn--danger}
 
 ### Medium-frequency cycles in a stationary world
