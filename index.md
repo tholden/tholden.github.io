@@ -77,6 +77,12 @@ Tom works on:
 
 [Working paper PDF](/assets/files/InSpace.pdf){: .btn .btn--danger}
 
+### Aggregation bias in investment and capital
+***Latest working paper, 2020***
+> In the US BEA Fixed Asset tables, the relative price of capital is increasing (in units of consumption), while the relative price of investment (in the same units) is falling. We build a vintage capital model to explain these surprising facts. The model predicts that the BEA will mismeasure the true growth rates of both relative prices, with a bias driving a wedge between the two. The calibrated model implies that real growth in US GDP per capita is overstated by about 0.1 percentage points per year.
+
+[Slides](/assets/files/SlidesAggregationBias.pdf){: .btn .btn--danger}
+
 ### Medium-frequency cycles in a stationary world
 
 ### A Hawkes model of the transmission of European sovereign default risk
