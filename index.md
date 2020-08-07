@@ -36,14 +36,14 @@ Working on:
 
 [Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
 
-[Publisher's version](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12601){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/wly/jmoncb/v52y2020i2-3p549-582.html){: .btn .btn--warning} [Working paper PDF](/assets/files/1048299872.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/bubdps/572018.html){: .btn .btn--info}
+[Publisher's version](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12601){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/wly/jmoncb/v52y2020i2-3p549-582.html){: .btn .btn--warning} [Working paper PDF](/assets/files/CreditCrunches.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/bubdps/572018.html){: .btn .btn--info}
 
 ### Reconciling Jaimovich-Rebello Preferences, Habit in Consumption and Labor Supply (2018)
 > This note studies a form of a utility function of consumption with habit and leisure that (a) is compatible with long-run balanced growth, (b) hits a steady state observed target for hours worked and (c) is consistent with micro-econometric evidence for the inter-temporal elasticity of substitution and the Frisch elasticity of labor supply. Employing Jaimovich–Rebello preferences our results highlight a constraint on the preference parameter needed to target the steady-state Frisch elasticity. This leads to a lower bound for the latter that cannot be reconciled empirically with external habit, but the introduction of a labor wedge solves the problem. We also propose a dynamic Frisch inverse elasticity measure and examine its business cycle properties.
 
 [Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
 
-[Publisher's version](https://www.sciencedirect.com/science/article/pii/S0165176518301423){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/eee/ecolet/v168y2018icp132-137.html){: .btn .btn--warning} [Working paper PDF](/assets/files/swp2018-26.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/bca/bocawp/18-26.html){: .btn .btn--info}
+[Publisher's version](https://www.sciencedirect.com/science/article/pii/S0165176518301423){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/eee/ecolet/v168y2018icp132-137.html){: .btn .btn--warning} [Working paper PDF](/assets/files/JRPrefs.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/bca/bocawp/18-26.html){: .btn .btn--info}
 
 ## Current Working Papers
 
