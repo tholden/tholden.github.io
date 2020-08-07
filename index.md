@@ -71,7 +71,9 @@ The papers below have been replaced by newer papers taking different approaches 
 [Working paper PDF](/assets/files/mfc3.pdf){: .btn .btn--danger}
 
 ### Efficient simulation of DSGE models with inequality constraints
-**Revise & resubmit, Journal of Economic Dynamics and Control, lapsed. University of Surrey working paper (2012).**
+**Revise & resubmit, Journal of Economic Dynamics and Control, lapsed.**
+
+**University of Surrey working paper (2012).**
 > This paper presents a fast, simple and intuitive algorithm for simulation of linear dynamic stochastic general equilibrium models with inequality constraints. The algorithm handles both the computation of impulse responses, and stochastic simulation, and can deal with arbitrarily many bounded variables. Furthermore, the algorithm is able to capture the precautionary motive associated with the risk of hitting such a bound. To illustrate the usefulness and efficiency of this algorithm we provide a variety of applications including to models incorporating a zero lower bound (ZLB) on nominal interest rates. Our procedure is much faster than comparable methods and can readily handle large models. We therefore expect this algorithm to be useful in a wide variety of applications.
 
 [Co-author: Michael Paetz](https://www.wiso.uni-hamburg.de/fachbereich-vwl/ueber-den-fachbereich/mitglieder/paetz-michael.html){: .btn .btn--primary}
