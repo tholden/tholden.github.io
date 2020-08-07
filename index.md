@@ -64,6 +64,10 @@ Tom works on:
 [Working paper PDF](/assets/files/ComputationalPaper.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144569.html){: .btn .btn--info}
 
 ### A robust monetary rule
+***Latest working paper, 2020***
+> Central banks would like to ensure determinate inflation, to rule out self-fulfilling fluctuations. Traditional monetary rules can fail to produce determinacy under a variety of conditions. This paper proposes a family of monetary rules that ensure determinate inflation under the weakest possible assumptions about the behaviour of households and firms. Despite this, the family of rules is general enough to allow the determinate implementation of arbitrary inflation dynamics. The rules are easy to implement in practice, and even simple rules in our class attain high welfare. Existing US Fed behaviour is close to one such simple rule.
+
+[Working paper PDF](/assets/files/ARobustMonetaryRule.pdf){: .btn .btn--danger}
 
 ### Business cycles in space
 
