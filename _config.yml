@@ -65,6 +65,7 @@ social:
     - "https://www.linkedin.com/in/tomholden/"
     - "https://www.facebook.com/tom.holden/"
     - "https://www.instagram.com/tom_d_holden/"
+    - "https://www.reddit.com/user/TomDHolden"
     - "https://www.youtube.com/user/seaephpea"
     
 # Analytics
@@ -119,6 +120,9 @@ author:
     - label: "Instagram"
       icon:  "fab fa-fw fa-instagram"
       url:   "https://www.instagram.com/tom_d_holden/"
+    - label: "Reddit"
+      icon:  "fab fa-fw fa-reddit"
+      url:   "https://www.reddit.com/user/TomDHolden"
     - label: "YouTube"
       icon:  "fab fa-fw fa-youtube"
       url:   "https://www.youtube.com/user/seaephpea"
@@ -165,6 +169,9 @@ footer:
     - label: "Instagram"
       icon:  "fab fa-fw fa-instagram"
       url:   "https://www.instagram.com/tom_d_holden/"
+    - label: "Reddit"
+      icon:  "fab fa-fw fa-reddit"
+      url:   "https://www.reddit.com/user/TomDHolden"
     - label: "YouTube"
       icon:  "fab fa-fw fa-youtube"
       url:   "https://www.youtube.com/user/seaephpea"
