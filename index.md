@@ -88,6 +88,7 @@ Tom works on:
 ### Quantifying the transmission of European sovereign default risk
 ***Latest working paper, 2018***
 > We build a non-stationary Hawkes model of sovereign credit risk for seven European countries, and estimate it on CDS data from the run-up to the Greek default. We model a country's credit risk as partly driven by a weighted combination of risks across countries. We find Spain and Portugal are the chief drivers of this component, with Greece's contribution also significant. Greece and Portugal are found to be particularly sensitive to external risk, with a Greek default 35\% less likely in our period without shocks elsewhere. Our novel maximum-likelihood procedure permits tractable estimation of high-dimensional Hawkes models with unobserved events.
+
 [Co-author: Ana-Maria Dumitru](https://sites.google.com/site/anamariahdumitru/){: .btn .btn--primary}
 
 [Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger}
