@@ -91,7 +91,7 @@ Tom works on:
 
 [Co-author: Ana-Maria Dumitru](https://sites.google.com/site/anamariahdumitru/){: .btn .btn--primary}
 
-[Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger}
+[Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger} [Working paper on RePEc with earlier title](https://ideas.repec.org/p/zbw/esconf/168431.html){: .btn .btn--info}
 
 ### Medium-frequency cycles in a stationary world
 ***Latest working paper, 2016***
