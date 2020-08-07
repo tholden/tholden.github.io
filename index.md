@@ -32,6 +32,11 @@ Working on:
 ## Publications
 
 ### Credit Crunches from Occasionally Binding Bank Borrowing Constraints (2020)
+> We present a model in which banks and other financial intermediaries face both occasionally binding borrowing constraints, and costs of equity issuance. Near the steady state, these intermediaries can raise equity finance at no cost through retained earnings. However, even moderately large shocks cause their borrowing constraints to bind, leading to contractions in credit offered to firms, and requiring the intermediaries to raise further funds by paying the cost to issue equity. This leads to the occasional sharp increases in interest spreads and the countercyclical, positively skewed equity issuance that are characteristics of the credit crunches observed in the data.
+
+[Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
+
+[Publisher's version](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12601){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/wly/jmoncb/v52y2020i2-3p549-582.html){: .btn .btn--warning} [Working paper PDF](/assets/files/1048299872.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/bubdps/572018.html){: .btn .btn--info}
 
 ### Reconciling Jaimovich-Rebello Preferences, Habit in Consumption and Labor Supply (2018)
 > This note studies a form of a utility function of consumption with habit and leisure that (a) is compatible with long-run balanced growth, (b) hits a steady state observed target for hours worked and (c) is consistent with micro-econometric evidence for the inter-temporal elasticity of substitution and the Frisch elasticity of labor supply. Employing Jaimovich–Rebello preferences our results highlight a constraint on the preference parameter needed to target the steady-state Frisch elasticity. This leads to a lower bound for the latter that cannot be reconciled empirically with external habit, but the introduction of a labor wedge solves the problem. We also propose a dynamic Frisch inverse elasticity measure and examine its business cycle properties.
