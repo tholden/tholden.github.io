@@ -158,7 +158,8 @@ The papers below are either extremely rough, or are dormant (for now). There may
 ### Others
 Further (sometimes rough!) papers can be seen in the following links:
 
-[My thesis](/thesis/){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--info} {: .text-left}
+[My thesis](/thesis/){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--info}
+{: .text-left}
 
 ## Policy / Non-academic Papers
 
