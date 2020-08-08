@@ -13,6 +13,8 @@ header:
   actions:
     - label: "Download CV"
       url: "/assets/files/cv.pdf"
+    - label: "Publications"
+      url: "/#publications"
   #caption: "Photo credit"
 excerpt: "<span style=\u0022background-color: #000; opacity: 0.5;\u0022>Researcher and macroeconomist in the Deutsche Bundesbank's research department.</span>\n\n<span style=\u0022background-color: #000; opacity: 0.5;\u0022>DPhil (PhD) University of Oxford, 2013.</span>"
 toc: true
