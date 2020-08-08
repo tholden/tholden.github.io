@@ -37,17 +37,17 @@ Tom works on:
 ***Journal of Money, Credit and Banking, 2020***
 > We present a model in which banks and other financial intermediaries face both occasionally binding borrowing constraints, and costs of equity issuance. Near the steady state, these intermediaries can raise equity finance at no cost through retained earnings. However, even moderately large shocks cause their borrowing constraints to bind, leading to contractions in credit offered to firms, and requiring the intermediaries to raise further funds by paying the cost to issue equity. This leads to the occasional sharp increases in interest spreads and the countercyclical, positively skewed equity issuance that are characteristics of the credit crunches observed in the data.
 
-[Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
+[Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary} {: .text-left}
 
-[Publisher's version](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12601){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/wly/jmoncb/v52y2020i2-3p549-582.html){: .btn .btn--warning} [Working paper PDF](/assets/files/CreditCrunches.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/bubdps/572018.html){: .btn .btn--info}
+[Publisher's version](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12601){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/wly/jmoncb/v52y2020i2-3p549-582.html){: .btn .btn--warning} [Working paper PDF](/assets/files/CreditCrunches.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/bubdps/572018.html){: .btn .btn--info} {: .text-left}
 
 ### Reconciling Jaimovich-Rebello preferences, habit in consumption and labor supply
 ***Economics Letters, 2018***
 > This note studies a form of a utility function of consumption with habit and leisure that (a) is compatible with long-run balanced growth, (b) hits a steady state observed target for hours worked and (c) is consistent with micro-econometric evidence for the inter-temporal elasticity of substitution and the Frisch elasticity of labor supply. Employing Jaimovich–Rebello preferences our results highlight a constraint on the preference parameter needed to target the steady-state Frisch elasticity. This leads to a lower bound for the latter that cannot be reconciled empirically with external habit, but the introduction of a labor wedge solves the problem. We also propose a dynamic Frisch inverse elasticity measure and examine its business cycle properties.
 
-[Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
+[Co-author: Paul Levine](https://www.surrey.ac.uk/people/paul-levine){: .btn .btn--primary} [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary} {: .text-left}
 
-[Publisher's version](https://www.sciencedirect.com/science/article/pii/S0165176518301423){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/eee/ecolet/v168y2018icp132-137.html){: .btn .btn--warning} [Working paper PDF](/assets/files/JRPrefs.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/bca/bocawp/18-26.html){: .btn .btn--info}
+[Publisher's version](https://www.sciencedirect.com/science/article/pii/S0165176518301423){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/eee/ecolet/v168y2018icp132-137.html){: .btn .btn--warning} [Working paper PDF](/assets/files/JRPrefs.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/bca/bocawp/18-26.html){: .btn .btn--info} {: .text-left}
 
 ## Current Working Papers
 
@@ -57,7 +57,7 @@ Tom works on:
 ***Latest working paper, 2020***
 > Policy makers would like to prevent self-fulfilling fluctuations. Given the prevalence of occasionally binding constraints (OBCs) such as the zero lower bound (ZLB), this requires understanding the determinacy of models with OBCs. To this end, we derive existence and uniqueness conditions for otherwise linear models with OBCs. Our main result gives necessary and sufficient conditions for such a model to have a unique perfect foresight solution returning to a given steady state, for any initial condition. We show that while standard New Keynesian models with a ZLB possess multiple perfect-foresight paths eventually escaping the ZLB, price level targeting restores determinacy.
 
-[Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
+[Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info} {: .text-left}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
 ***Reject & resubmit, Quantitative Economics***
@@ -65,13 +65,13 @@ Tom works on:
 ***Latest working paper, 2016***
 > We construct the first algorithm for the perfect foresight solution of otherwise linear models with occasionally binding constraints, with fixed terminal conditions, that is guaranteed to return a solution in finite time, if one exists. We also provide a proof of the inescapability of the “curse of dimensionality” for this problem when nothing is known a priori about the model. We go on to extend our algorithm to deal with stochastic simulation, other non-linearities, and future uncertainty. We show that the resulting algorithm produces fast and accurate simulations of a range of models with occasionally binding constraints.
 
-[Working paper PDF](/assets/files/ComputationalPaper.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144569.html){: .btn .btn--info}
+[Working paper PDF](/assets/files/ComputationalPaper.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144569.html){: .btn .btn--info} {: .text-left}
 
 ### A robust monetary rule
 ***Latest working paper, 2020***
 > Central banks would like to ensure determinate inflation, to rule out self-fulfilling fluctuations. Traditional monetary rules can fail to produce determinacy under a variety of conditions. This paper proposes a family of monetary rules that ensure determinate inflation under the weakest possible assumptions about the behaviour of households and firms. Despite this, the family of rules is general enough to allow the determinate implementation of arbitrary inflation dynamics. The rules are easy to implement in practice, and even simple rules in our class attain high welfare. Existing US Fed behaviour is close to one such simple rule.
 
-[Working paper PDF](/assets/files/ARobustMonetaryRule.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesARobustMonetaryRule.pdf){: .btn .btn--danger} [Video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
+[Working paper PDF](/assets/files/ARobustMonetaryRule.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesARobustMonetaryRule.pdf){: .btn .btn--danger} [Video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse} {: .text-left}
 
 ### Business cycles in space
 ***Latest working paper, 2020***
@@ -93,7 +93,7 @@ Tom works on:
 
 [Co-author: Ana-Maria Dumitru](https://sites.google.com/site/anamariahdumitru/){: .btn .btn--primary}
 
-[Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger} [Working paper on RePEc with earlier title](https://ideas.repec.org/p/zbw/esconf/168431.html){: .btn .btn--info}
+[Working paper PDF](/assets/files/CDSEurozone.pdf){: .btn .btn--danger} [Working paper on RePEc with earlier title](https://ideas.repec.org/p/zbw/esconf/168431.html){: .btn .btn--info} {: .text-left}
 
 ### Catch-up cycles
 ***Latest working paper, 2018***
@@ -107,7 +107,7 @@ Tom works on:
 ***Latest working paper, 2016***
 > Existing models of endogenous growth generate implausibly large trend breaks in output when augmented with standard business cycle shocks. This paper presents a model without this deficiency, yet still capable of generating large medium-frequency fluctuations around the trend. Ensuring the robustness of the trend requires that we eliminate the strong scale effects and knife edge assumptions that plague most growth models. In our model, medium-frequency fluctuations arise from changes in the proportion of industries producing patent protected products. However, variations in the number of firms within each industry ensure that process improvement incentives remain roughly constant. An estimated version of the model matches well the observed pattern of medium frequency cycles.
 
-[Working paper PDF](/assets/files/NewMFC.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesNewMFC.pdf){: .btn .btn--danger}
+[Working paper PDF](/assets/files/NewMFC.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesNewMFC.pdf){: .btn .btn--danger} {: .text-left}
 
 ## Replaced Papers
 The papers below have been replaced by newer papers taking different approaches to the same topic. There may still be something of interest in them.
@@ -116,13 +116,13 @@ The papers below have been replaced by newer papers taking different approaches 
 ***Latest working paper, 2013***
 > Existing models of dynamic endogenous growth generate implausibly large trend breaks in output when augmented with standard business cycle shocks. This paper presents a model without this deficiency, yet still capable of generating large medium-frequency fluctuations around the trend. Ensuring the robustness of the trend requires that we eliminate the scale effects and knife edge assumptions that plague most growth models. In our model, medium-frequency fluctuations arise from changes in the proportion of industries producing patent protected products. However, variations in the number of firms within each industry ensure that process improvement incentives remain roughly constant.
 
-[Working paper PDF](/assets/files/mfc1.pdf){: .btn .btn--danger}
+[Working paper PDF](/assets/files/mfc1.pdf){: .btn .btn--danger} {: .text-left}
 
 ### Data consistent modelling of medium-frequency cycles and their origins
 ***Latest working paper, 2013***
 > This paper presents four stylized facts on medium-frequency cycles, then builds and estimates a model capable of replicating both these facts and standard business-cycle ones. We show that GDP returns to trend at long lags, that aggregate mark-ups always lead output, and are only counter-cyclical at low frequencies, and that medium-frequency cycles are larger in countries with longer patent protection. Since traditional dynamic endogenous growth models generate large trend-breaks following business-cycle shocks, our model is based on that of Holden (2013a). After estimation, a financial-type shock to the stock of ideas emerges as the key driver of the medium-frequency cycle.
 
-[Working paper PDF](/assets/files/mfc2.pdf){: .btn .btn--danger}
+[Working paper PDF](/assets/files/mfc2.pdf){: .btn .btn--danger} {: .text-left}
 
 ### Online appendices to “Reconciling near trend-stationary growth with medium-frequency cycles” and “Data consistent modelling of medium-frequency cycles and their origins”
 ***Latest working paper, 2013***
@@ -138,7 +138,7 @@ The papers below have been replaced by newer papers taking different approaches 
 
 [Co-author: Michael Paetz](https://www.wiso.uni-hamburg.de/fachbereich-vwl/ueber-den-fachbereich/mitglieder/paetz-michael.html){: .btn .btn--primary}
 
-[Working paper PDF](/assets/files/HoldenPaetz.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1612.html){: .btn .btn--info}
+[Working paper PDF](/assets/files/HoldenPaetz.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1612.html){: .btn .btn--info} {: .text-left}
 
 ## Rough or Dormant Papers
 The papers below are either extremely rough, or are dormant (for now). There may still be something of interest in them.
@@ -153,12 +153,12 @@ The papers below are either extremely rough, or are dormant (for now). There may
 ***Latest working paper, 2013***
 > Traditional macroeconomic learning algorithms are misspecified when all agents are learning simultaneously. In this paper, we produce a number of learning algorithms that do not share this failing, and show that this enables them to learn almost any solution, for any parameters, implying learning cannot be used for equilibrium selection. As a by-product, we are able to show that when all agents are learning by traditional methods, all deep structural parameters of standard new-Keynesian models are identified, overturning a key result of Cochrane (2009; 2011). This holds irrespective of whether the central bank is following the Taylor principle, irrespective of whether the implied path is or is not explosive, and irrespective of whether agents’ beliefs converge. If shocks are observed then this result is trivial, so following Cochrane (2009) our analysis is carried out in the more plausible case in which agents do not observe shocks.
 
-[Working paper PDF](/assets/files/learning_from_learners.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1512.html){: .btn .btn--info}
+[Working paper PDF](/assets/files/learning_from_learners.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/sur/surrec/1512.html){: .btn .btn--info} {: .text-left}
 
 ### Others
 Further (sometimes rough!) papers can be seen in the following links:
 
-[My thesis](/thesis/){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--info} 
+[My thesis](/thesis/){: .btn .btn--success} [My SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179){: .btn .btn--warning} [My Google Scholar page](https://scholar.google.co.uk/citations?user=vvM76xcAAAAJ&hl=en){: .btn .btn--danger} [My RePEc page](https://ideas.repec.org/f/pho254.html){: .btn .btn--info} {: .text-left}
 
 ## Policy / Non-academic Papers
 
@@ -168,4 +168,4 @@ Further (sometimes rough!) papers can be seen in the following links:
 ***"Also published in: "Four go in search of big ideas", Edited by Helen Flynn (2018)***
 > Universal basic income (UBI) is often presented as a way of supporting an increase in the fraction of population not in full time employment. Here, I wish to outline an alternative vision based upon using UBI to simplify the tax and benefit system and enhance work incentives. Rather than funding an increase in the number of people without jobs, my proposed system is designed to produce higher levels of employment. By replacing many existing benefits with a UBI, families will no longer need to worry about their benefits being withdrawn as they start earning more, giving them stronger incentives to work, and pulling thousands out of the poverty trap created by the existing benefits system. Furthermore, while the poorest will obtain the largest direct benefit from the proposed system, its wider benefits will be shared by people of all incomes due to reduced economic distortions.
 
-[Publisher's version](https://www.socialliberal.net/universal_basic_income_as_a_tool_for_tax_and_benefit_reform){: .btn .btn--success} [Published book](https://www.socialliberal.net/big_ideas_buy){: .btn .btn--warning} [Working paper PDF](/assets/files/UBI.pdf){: .btn .btn--danger}
+[Publisher's version](https://www.socialliberal.net/universal_basic_income_as_a_tool_for_tax_and_benefit_reform){: .btn .btn--success} [Published book](https://www.socialliberal.net/big_ideas_buy){: .btn .btn--warning} [Working paper PDF](/assets/files/UBI.pdf){: .btn .btn--danger} {: .text-left}
