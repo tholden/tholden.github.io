@@ -78,7 +78,7 @@ analytics:
 author:
   name     : "Dr Tom Dumitru Holden"
   avatar   : "/assets/images/bio-photo/800x800.jpg"
-  bio      : "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n\nDPhil (PhD) University of Oxford, 2013."
+  bio      : "Researcher and macroeconomist in the Deutsche Bundesbank's research department.\n{: .text-left}\n\nDPhil (PhD) University of Oxford, 2013.\n{: .text-left}"
   location : "Frankfurt am Main, Germany"
   links:
     - label: "Homepage"
