@@ -58,7 +58,7 @@ Tom works on:
 ### Existence and uniqueness of solutions to dynamic models with occasionally binding constraints
 ***Revise & resubmit, The Review of Economics and Statistics***
 
-***Latest working paper, 2020***
+***Latest working paper, 2021***
 > Policy makers would like to prevent self-fulfilling fluctuations. Given the prevalence of occasionally binding constraints (OBCs) such as the zero lower bound (ZLB), this requires understanding the determinacy of models with OBCs. To this end, we derive existence and uniqueness conditions for otherwise linear models with OBCs. Our main result gives necessary and sufficient conditions for such a model to have a unique perfect foresight solution returning to a given steady state, for any initial condition. We show that while standard New Keynesian models with a ZLB possess multiple perfect-foresight paths eventually escaping the ZLB, price level targeting restores determinacy.
 
 [Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
