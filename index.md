@@ -33,6 +33,13 @@ Tom works on:
   
 ## Publications
 
+### Existence and uniqueness of solutions to dynamic models with occasionally binding constraints
+***The Review of Economics and Statistics, Forthcoming***
+> Occasionally binding constraints (OBCs) like the zero lower bound (ZLB) can lead to multiple equilibria, and so to belief-driven recessions. To aid in finding policies that avoid this, we derive existence and uniqueness conditions for otherwise linear models with OBCs. Our main result gives necessary and sufficient conditions for such models to have a unique (“determinate”) perfect foresight solution returning to a given steady state, for any initial condition. While standard New Keynesian models have multiple perfect-foresight paths eventually escaping the ZLB, price level targeting restores uniqueness. We also derive equilibrium existence conditions under rational expectations for arbitrary non-linear models.
+
+[Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
+{: .text-left}
+
 ### Credit crunches from occasionally binding bank borrowing constraints
 ***Journal of Money, Credit and Banking, 2020***
 > We present a model in which banks and other financial intermediaries face both occasionally binding borrowing constraints, and costs of equity issuance. Near the steady state, these intermediaries can raise equity finance at no cost through retained earnings. However, even moderately large shocks cause their borrowing constraints to bind, leading to contractions in credit offered to firms, and requiring the intermediaries to raise further funds by paying the cost to issue equity. This leads to the occasional sharp increases in interest spreads and the countercyclical, positively skewed equity issuance that are characteristics of the credit crunches observed in the data.
@@ -54,15 +61,6 @@ Tom works on:
 {: .text-left}
 
 ## Current Working Papers
-
-### Existence and uniqueness of solutions to dynamic models with occasionally binding constraints
-***Revise & resubmit, The Review of Economics and Statistics***
-
-***Latest working paper, 2021***
-> Policy makers would like to prevent self-fulfilling fluctuations. Given the prevalence of occasionally binding constraints (OBCs) such as the zero lower bound (ZLB), this requires understanding the determinacy of models with OBCs. To this end, we derive existence and uniqueness conditions for otherwise linear models with OBCs. Our main result gives necessary and sufficient conditions for such a model to have a unique perfect foresight solution returning to a given steady state, for any initial condition. We show that while standard New Keynesian models with a ZLB possess multiple perfect-foresight paths eventually escaping the ZLB, price level targeting restores determinacy.
-
-[Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
-{: .text-left}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
 ***Reject & resubmit, Quantitative Economics***
