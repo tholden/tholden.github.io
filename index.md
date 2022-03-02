@@ -71,11 +71,11 @@ Tom works on:
 [Working paper PDF](/assets/files/ComputationalPaper.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144569.html){: .btn .btn--info}
 {: .text-left}
 
-### A robust monetary rule
-***Latest working paper, 2020***
-> Central banks would like to ensure determinate inflation, to rule out self-fulfilling fluctuations. Traditional monetary rules can fail to produce determinacy under a variety of conditions. This paper proposes a family of monetary rules that ensure determinate inflation under the weakest possible assumptions about the behaviour of households and firms. Despite this, the family of rules is general enough to allow the determinate implementation of arbitrary inflation dynamics. The rules are easy to implement in practice, and even simple rules in our class attain high welfare. Existing US Fed behaviour is close to one such simple rule.
+### Robust Real Rate Rules
+***Latest working paper, 2022***
+> Central banks would like to ensure determinate inflation, to rule out self-fulfilling fluctuations. Traditional monetary rules can fail to produce determinacy under many conditions. This paper proposes a family of monetary rules that ensure determinate inflation under the weakest possible assumptions about the behaviour of households and firms. Despite this, the family of rules is general enough to allow the determinate implementation of arbitrary inflation dynamics. The rules are easy to implement in practice, and even simple rules in our class attain high welfare. The success of these rules provides new insight into the core monetary transmission mechanism. The Fisher equation is key, not the Euler equation or the Phillips curve.
 
-[Working paper PDF](/assets/files/ARobustMonetaryRule.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesARobustMonetaryRule.pdf){: .btn .btn--danger} [Video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
+[Working paper PDF](/assets/files/RobustRealRateRules.pdf){: .btn .btn--danger} [Older slides with some additional material](/assets/files/SlidesARobustMonetaryRule.pdf){: .btn .btn--danger} [Older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
 {: .text-left}
 
 ### Business cycles in space
