@@ -62,6 +62,13 @@ Tom works on:
 
 ## Current Working Papers
 
+### Robust Real Rate Rules
+***Latest working paper, 2022***
+> Central banks wish to avoid self-fulfilling fluctuations. This requires “determinacy”. Monetary rules with a unit response to real rates produce determinate inflation under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand to mouth consumers, non-rational household/firm expectations, active fiscal policy, missing transversality conditions and to any form of intertemporal link (Euler equation) or nominal-real link (Phillips curve). These rules: allow the implementation of arbitrary inflation dynamics, including optimal policy; are easy to implement in practice, with bonds of any maturity; and can attain high welfare. The performance of these rules suggests a reversed interpretation of the Phillips equation, explaining its poor forecasting performance, and provides insights into monetary transmission—the Fisher equation is key.
+
+[Working paper PDF](/assets/files/RobustRealRateRules.pdf){: .btn .btn--danger} [Slides with some additional material](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
+{: .text-left}
+
 ### Computation of solutions to dynamic models with occasionally binding constraints
 ***Reject & resubmit, Quantitative Economics***
 
@@ -69,13 +76,6 @@ Tom works on:
 > We construct the first algorithm for the perfect foresight solution of otherwise linear models with occasionally binding constraints, with fixed terminal conditions, that is guaranteed to return a solution in finite time, if one exists. We also provide a proof of the inescapability of the “curse of dimensionality” for this problem when nothing is known a priori about the model. We go on to extend our algorithm to deal with stochastic simulation, other non-linearities, and future uncertainty. We show that the resulting algorithm produces fast and accurate simulations of a range of models with occasionally binding constraints.
 
 [Working paper PDF](/assets/files/ComputationalPaper.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144569.html){: .btn .btn--info}
-{: .text-left}
-
-### Robust Real Rate Rules
-***Latest working paper, 2022***
-> Central banks wish to avoid self-fulfilling fluctuations. This requires “determinacy”. Monetary rules with a unit response to real rates produce determinate inflation under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand to mouth consumers, non-rational household/firm expectations, active fiscal policy, missing transversality conditions and to any form of intertemporal link (Euler equation) or nominal-real link (Phillips curve). These rules: allow the implementation of arbitrary inflation dynamics, including optimal policy; are easy to implement in practice, with bonds of any maturity; and can attain high welfare. The performance of these rules suggests a reversed interpretation of the Phillips equation, explaining its poor forecasting performance, and provides insights into monetary transmission—the Fisher equation is key.
-
-[Working paper PDF](/assets/files/RobustRealRateRules.pdf){: .btn .btn--danger} [Older slides with some additional material](/assets/files/SlidesARobustMonetaryRule.pdf){: .btn .btn--danger} [Older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
 {: .text-left}
 
 ### Business cycles in space
