@@ -64,9 +64,9 @@ Tom works on:
 
 ### Robust Real Rate Rules
 ***Latest working paper, 2022***
-> Central banks wish to avoid self-fulfilling fluctuations. This requires “determinacy”. Monetary rules with a unit response to real rates produce determinate inflation under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand to mouth consumers, non-rational household/firm expectations, active fiscal policy, missing transversality conditions and to any form of intertemporal link (Euler equation) or nominal-real link (Phillips curve). These rules: allow the implementation of arbitrary inflation dynamics, including optimal policy; are easy to implement in practice, with bonds of any maturity; and can attain high welfare. The performance of these rules suggests a reversed interpretation of the Phillips equation, explaining its poor forecasting performance, and provides insights into monetary transmission—the Fisher equation is key.
+> Central banks wish to avoid self-fulfilling fluctuations. Monetary rules with a unit response to real rates achieve this under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand-to-mouth consumers, non-rational household/firm expectations, active fiscal policy, missing transversality conditions and to any form of intertemporal or nominal-real link. These rules: allow the implementation of arbitrary inflation dynamics, including optimal policy; are easy to implement in practice, with bonds of any maturity; and can attain high welfare. The performance of these rules provides insights into monetary transmission—the Fisher equation is key.
 
-[Working paper PDF](/assets/files/RobustRealRateRules.pdf){: .btn .btn--danger} [Slides with some additional material](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
+[Working paper PDF](/assets/files/RobustRealRateRules.pdf){: .btn .btn--danger} [Slightly outdated slides](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
 {: .text-left}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
@@ -78,6 +78,14 @@ Tom works on:
 [Working paper PDF](/assets/files/ComputationalPaper.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144569.html){: .btn .btn--info}
 {: .text-left}
 
+### Capital heterogeneity and investment prices: How much are investment prices declining?
+***Latest working paper, 2022***
+> Not as much as you may think. Investment-specific technological change (ISTC), reflected in the declining price of new investment goods, has been recognized as an important potential driver of economic growth, business cycles, the labor share, and the equilibrium real rate. However, the declines in investment prices are heavily concentrated in a few asset types, most notably computers, while most asset types exhibit little change. How one aggregates these price changes is hence critical to evaluating the aggregate importance of ISTC. We demonstrate theoretically the correct aggregation approach using a standard neoclassical model with multiple capital goods. The correct aggregation depends on the question studied. Second, empirically, we evaluate the quantitative impact of using the correct aggregation procedure. We find that the contribution of ISTC to any of these questions is smaller than if one ignores aggregation issues.
+
+[Co-author: Francois Gourio](https://sites.google.com/site/fgourio/home){: .btn .btn--primary} [Co-author: Matthew Rognlie](https://sites.northwestern.edu/rognlie/){: .btn .btn--primary}
+
+[Slides](/assets/files/CapitalHeterogeneitySlides.pdf){: .btn .btn--danger}
+
 ### Business cycles in space
 ***Latest working paper, 2020***
 > Many important shocks in the real world are correlated not only in time, but also across some notion of space. This may be physical space, or the space of product, firm or household types. As a result of this spatial correlation, aggregate volatility emerges naturally from idiosyncratic shocks. In this paper, we introduce a tractable framework that allows for such shocks without necessitating the discretisation of space, or a departure from perturbation approximation. As a lead example, we construct a dynamic, stochastic, general equilibrium model of economic geography (DSGEEG). This model features population movement, firm dynamics and semi-endogenous growth. Using it, we show how transitory, spatially located productivity shocks can lead to persistent movements in population, helping to explain internal migration patterns in the U.S., and regional wage and investment dynamics. As an additional theoretical contribution, we derive conditions for the existence of continuous-in-space shock processes on a range of spaces of economic interest.
@@ -85,12 +93,6 @@ Tom works on:
 [Co-author: Jonathan Swarbrick](https://www.jonathanswarbrick.uk/){: .btn .btn--primary}
 
 [Working paper PDF](/assets/files/InSpace.pdf){: .btn .btn--danger}
-
-### Aggregation bias in investment and capital
-***Latest working paper, 2020***
-> In the US BEA Fixed Asset tables, the relative price of capital is increasing (in units of consumption), while the relative price of investment (in the same units) is falling. We build a vintage capital model to explain these surprising facts. The model predicts that the BEA will mismeasure the true growth rates of both relative prices, with a bias driving a wedge between the two. The calibrated model implies that real growth in US GDP per capita is overstated by about 0.1 percentage points per year.
-
-[Slides](/assets/files/SlidesAggregationBias.pdf){: .btn .btn--danger}
 
 ### Quantifying the transmission of European sovereign default risk
 ***Latest working paper, 2018***
@@ -118,6 +120,12 @@ Tom works on:
 
 ## Replaced Papers
 The papers below have been replaced by newer papers taking different approaches to the same topic. There may still be something of interest in them.
+
+### Aggregation bias in investment and capital
+***Latest working paper, 2020***
+> In the US BEA Fixed Asset tables, the relative price of capital is increasing (in units of consumption), while the relative price of investment (in the same units) is falling. We build a vintage capital model to explain these surprising facts. The model predicts that the BEA will mismeasure the true growth rates of both relative prices, with a bias driving a wedge between the two. The calibrated model implies that real growth in US GDP per capita is overstated by about 0.1 percentage points per year.
+
+[Slides](/assets/files/SlidesAggregationBias.pdf){: .btn .btn--danger}
 
 ### Reconciling near trend-stationary growth with medium-frequency cycles
 ***Latest working paper, 2013***
