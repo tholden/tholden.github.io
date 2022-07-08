@@ -66,7 +66,7 @@ Tom works on:
 ***Latest working paper, 2022***
 > Central banks wish to avoid self-fulfilling fluctuations. Monetary rules with a unit response to real rates achieve this under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand-to-mouth consumers, non-rational household/firm expectations, active fiscal policy, missing transversality conditions and to any form of intertemporal or nominal-real link. These rules: allow the implementation of arbitrary inflation dynamics, including optimal policy; are easy to implement in practice, with bonds of any maturity; and can attain high welfare. The performance of these rules provides insights into monetary transmission—the Fisher equation is key.
 
-[Working paper PDF](/assets/files/RobustRealRateRules.pdf){: .btn .btn--danger} [Slightly outdated slides](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
+[Working paper PDF](/assets/files/RobustRealRateRulesBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/RobustRealRateRulesAppendices.pdf){: .btn .btn--danger} [Slightly outdated slides](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Much older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
 {: .text-left}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
