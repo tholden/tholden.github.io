@@ -63,6 +63,8 @@ Tom works on:
 ## Current Working Papers
 
 ### Robust Real Rate Rules
+***Revise & resubmit, Econometrica***
+
 ***Latest working paper, 2022***
 > Central banks wish to avoid self-fulfilling fluctuations. Monetary rules with a unit response to real rates achieve this under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand-to-mouth consumers, non-rational household/firm expectations, active fiscal policy, missing transversality conditions and to any form of intertemporal or nominal-real links. They are easy to employ in practice, using inflation protected bonds to infer real rates. With a time-varying inflation target, they can implement arbitrary inflation dynamics, including optimal policy. They work thanks to the key role played by the Fisher equation in monetary transmission.
 
