@@ -88,6 +88,12 @@ Tom works on:
 
 [Slides](/assets/files/CapitalHeterogeneitySlides.pdf){: .btn .btn--danger}
 
+### Exact Inflation Targeting with Inflation Swaps
+***Latest working paper, 2023***
+> Central banks can remove all uncertainty from future inflation by simultaneously intervening in two different inflation swap markets, leaving nominal rates to float freely. The first swap type returns gross inflation minus the contract rate. The second, returns gross inflation times gross inflation minus the contract rate. If the central bank sets both contract rates equal to the inflation target, then a Jensen’s inequality argument implies that inflation is at target with probability one. The central bank is able to fix two prices simultaneously as fixing just one would produce indeterminacy. Fixing both pins down inflation without invoking any dubious terminal conditions on inflation. With a time-varying target, this enables the central bank to robustly implement near-optimal policy.
+
+[Extended abstract PDF](/assets/files/ExactInflationTargetingWithInflationSwaps.pdf){: .btn .btn--danger} [Slides](/assets/files/ExactInflationTargetingWithInflationSwapsSlides.pdf){: .btn .btn--danger}
+
 ### Business cycles in space
 ***Latest working paper, 2020***
 > Many important shocks in the real world are correlated not only in time, but also across some notion of space. This may be physical space, or the space of product, firm or household types. As a result of this spatial correlation, aggregate volatility emerges naturally from idiosyncratic shocks. In this paper, we introduce a tractable framework that allows for such shocks without necessitating the discretisation of space, or a departure from perturbation approximation. As a lead example, we construct a dynamic, stochastic, general equilibrium model of economic geography (DSGEEG). This model features population movement, firm dynamics and semi-endogenous growth. Using it, we show how transitory, spatially located productivity shocks can lead to persistent movements in population, helping to explain internal migration patterns in the U.S., and regional wage and investment dynamics. As an additional theoretical contribution, we derive conditions for the existence of continuous-in-space shock processes on a range of spaces of economic interest.
