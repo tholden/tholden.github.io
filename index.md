@@ -124,3 +124,8 @@ Tom works on:
 
 [Working paper PDF](/assets/files/NewMFC.pdf){: .btn .btn--danger} [Slides with additional material](/assets/files/SlidesNewMFC.pdf){: .btn .btn--danger}
 {: .text-left}
+
+##Other Papers
+Various older papers are listed [here](/other-papers/).
+
+Other old papers are on SSRN [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1010179).
