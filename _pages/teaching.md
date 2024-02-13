@@ -25,4 +25,6 @@ My past PhD and post-doc students include:
   * [Jonathan Swarbrick](https://www.jonathanswarbrick.uk/). University of Surrey PhD student. Placed at the Bank of Canada.
   * [Stylianos Tsiaras](https://sites.google.com/view/stylianostsiaras/home?authuser=0). University of Surrey PhD student. Placed at EUI as a Max Weber Fellow, now at the Swiss Finance Institute.
   * [Dmitry Brizhatyuk](https://dbrizhatyuk.github.io/). University of Washington PhD student. (I was a dissertation committee member.) Placed at Moody's Analytics.
+  * [Szabolcs Deák](http://szabolcsdeak.com/). University of Surrey post-doc student. Placed at the University of Exeter.
   * [Shifu Jiang](https://sites.google.com/view/shifujiang/home). University of Surrey post-doc student. Placed at the Hong Kong Monetary Authority.
+
