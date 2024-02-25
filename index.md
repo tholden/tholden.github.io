@@ -62,7 +62,7 @@ Tom works on:
 ## Current Working Papers
 
 ### Robust Real Rate Rules
-***Revise(d) & resubmit(ted), Econometrica***
+***Conditionally Accepted, Econometrica***
 
 ***Latest working paper, 2023***
 > Central banks wish to avoid self-fulfilling fluctuations. Interest rate rules with a unit response to real rates achieve this under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand-to-mouth consumers, non-rational household or firm expectations, active fiscal policy and to any form of intertemporal or nominal-real links. They are easy to employ in practice, using inflation-protected bonds to infer real rates. With a time-varying short-term inflation target, they can implement an arbitrary inflation path, including optimal policy. This provides a way to translate policy makers’ desired path for inflation into one for nominal rates. US Federal Reserve behaviour is remarkably close to that predicted by a real rate rule, given the desired inflation path of US monetary policy makers. Real rate rules work thanks to the key role played by the Fisher equation in monetary transmission.
