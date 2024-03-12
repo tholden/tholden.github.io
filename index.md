@@ -1,5 +1,5 @@
 ---
-title: "<span style=\u0022background-color: #000; opacity: 0.5; width: 100%;\u0022>Dr Tom D. Holden</span>"
+title: "<span style=\u0022background-color: #000; opacity: 0.5; display: block; width: 100%; padding-left: 1em; padding-right: 1em; padding-top: 0.5em; padding-bottom: 0.5em;\u0022>Dr Tom D. Holden</span>"
 layout: single
 author_profile: true
 read_time: false
