@@ -64,7 +64,7 @@ Tom works on:
 ### Robust Real Rate Rules
 ***Conditionally Accepted, Econometrica***
 
-***Latest working paper, 2023***
+***Latest working paper, 2024***
 > Central banks wish to avoid self-fulfilling fluctuations. Interest rate rules with a unit response to real rates achieve this under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand-to-mouth consumers, non-rational household or firm expectations, active fiscal policy and to any form of intertemporal or nominal-real links. They are easy to employ in practice, using inflation-protected bonds to infer real rates. With a time-varying short-term inflation target, they can implement an arbitrary inflation path, including optimal policy. This provides a way to translate policy makers’ desired path for inflation into one for nominal rates. US Federal Reserve behaviour is remarkably close to that predicted by a real rate rule, given the desired inflation path of US monetary policy makers. Real rate rules work thanks to the key role played by the Fisher equation in monetary transmission.
 
 [Working paper PDF](/assets/files/RobustRealRateRulesBody.pdf){: .btn .btn--danger} [Working paper online appendices PDF](/assets/files/RobustRealRateRulesOnlineAppendices.pdf){: .btn .btn--danger} [Working paper supplemental appendices PDF](/assets/files/RobustRealRateRulesSupplementalAppendices.pdf){: .btn .btn--danger} [Replication materials](/assets/files/RRRRReplication.zip){: .btn .btn--info} [Slides](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Shorter slides](/assets/files/RobustRealRateRulesSlidesShort.pdf){: .btn .btn--danger} [Much older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
