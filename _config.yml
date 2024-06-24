@@ -115,7 +115,7 @@ author:
     - label: "Threads"
       icon:  "fab fa-fw fa-threads"
       url:   "https://www.threads.net/@tom_d_holden"
-    - label: "LinkdedIn"
+    - label: "LinkedIn"
       icon:  "fab fa-fw fa-linkedin"
       url:   "https://www.linkedin.com/in/tomholden/"
     - label: "YouTube"
