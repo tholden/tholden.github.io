@@ -40,6 +40,8 @@ search                   : true
 search_full_content      : true
 search_provider          : lunr # lunr (default), algolia, google
 
+github: [metadata]
+
 # SEO Related
 google_site_verification : "Sh3qnfBK_eOHWjLxX3DNiWaz5hP-YhH5FA8I4mmB54s"
 
