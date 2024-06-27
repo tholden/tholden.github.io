@@ -2,20 +2,16 @@ source "https://rubygems.org"
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
-gem "github-pages", "~> 215", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-  gem "jekyll-algolia"
-  gem "faraday"
-  gem "faraday-retry"
+  gem "github-pages", "~> 231"
+  gem "jekyll-include-cache", '~> 0.2.1'
+  gem 'jekyll-paginate', '~> 1.1'
+  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-gist', '~> 1.5'
+  gem 'jekyll-feed', '~> 0.17.0'
+  gem 'jemoji', '~> 0.13.0'
+  gem "faraday", '~> 2.9', '>= 2.9.2'
+  gem 'faraday-retry', '~> 2.2', '>= 2.2.1'
 end
+
+gem "tzinfo-data", '~> 1.2024', '>= 1.2024.1'
