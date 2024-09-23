@@ -33,19 +33,17 @@ Tom works on:
 ## Publications
 
 ### Robust Real Rate Rules
-***Econometrica, Forthcoming***
-
-***Latest working paper, 2024***
+***Econometrica, 2024***
 > Central banks wish to avoid self-fulfilling fluctuations. Interest rate rules with a unit response to real rates achieve this under the weakest possible assumptions about the behaviour of households and firms. They are robust to household heterogeneity, hand-to-mouth consumers, non-rational household or firm expectations, active fiscal policy and to any form of intertemporal or nominal-real links. They are easy to employ in practice, using inflation-protected bonds to infer real rates. With a time-varying short-term inflation target, they can implement an arbitrary inflation path, including optimal policy. This provides a way to translate policy makers’ desired path for inflation into one for nominal rates. US Federal Reserve behaviour is remarkably close to that predicted by a real rate rule, given the desired inflation path of US monetary policy makers. Real rate rules work thanks to the key role played by the Fisher equation in monetary transmission.
 
-[Working paper PDF](/assets/files/RobustRealRateRulesBody.pdf){: .btn .btn--danger} [Working paper online appendices PDF](/assets/files/RobustRealRateRulesOnlineAppendices.pdf){: .btn .btn--danger} [Working paper supplemental appendices PDF](/assets/files/RobustRealRateRulesSupplementalAppendices.pdf){: .btn .btn--danger} [Replication materials](/assets/files/RRRRReplication.zip){: .btn .btn--info} [Slides](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Shorter slides](/assets/files/RobustRealRateRulesSlidesShort.pdf){: .btn .btn--danger} [Non-technical slides](/assets/files/RobustRealRateRulesNonTechnicalSlides.pdf){: .btn .btn--danger} [Much older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
+[Publisher's version](https://doi.org/10.3982/ECTA21069){: .btn .btn--success} [Working paper PDF](/assets/files/RobustRealRateRulesBody.pdf){: .btn .btn--danger} [Working paper online appendices PDF](/assets/files/RobustRealRateRulesOnlineAppendices.pdf){: .btn .btn--danger} [Working paper supplemental appendices PDF](/assets/files/RobustRealRateRulesSupplementalAppendices.pdf){: .btn .btn--danger} [Replication materials](/assets/files/RRRRReplication.zip){: .btn .btn--info} [Slides](/assets/files/RobustRealRateRulesSlides.pdf){: .btn .btn--danger} [Shorter slides](/assets/files/RobustRealRateRulesSlidesShort.pdf){: .btn .btn--danger} [Non-technical slides](/assets/files/RobustRealRateRulesNonTechnicalSlides.pdf){: .btn .btn--danger} [Much older video presentation](https://youtu.be/Izq4adp4AsQ){: .btn .btn--inverse}
 {: .text-left}
 
 ### Existence and uniqueness of solutions to dynamic models with occasionally binding constraints
 ***The Review of Economics and Statistics, 2023***
 > Occasionally binding constraints (OBCs) like the zero lower bound (ZLB) can lead to multiple equilibria, and so to belief-driven recessions. To aid in finding policies that avoid this, we derive existence and uniqueness conditions for otherwise linear models with OBCs. Our main result gives necessary and sufficient conditions for such models to have a unique (“determinate”) perfect foresight solution returning to a given steady state, for any initial condition. While standard New Keynesian models have multiple perfect-foresight paths eventually escaping the ZLB, price level targeting restores uniqueness. We also derive equilibrium existence conditions under rational expectations for arbitrary non-linear models.
 
-[Publisher's version](https://doi.org/10.1162/rest_a_01122){: .btn .btn--success} [Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
+[Publisher's version](https://doi.org/10.1162/rest_a_01122){: .btn .btn--success} [Published version on RePEc](https://ideas.repec.org/a/tpr/restat/v105y2023i6p1481-1499.html){: .btn .btn--warning} [Working paper PDF](/assets/files/TheoryPaperBody.pdf){: .btn .btn--danger} [Working paper appendices PDF](/assets/files/TheoryPaperAppendices.pdf){: .btn .btn--danger} [Working paper on RePEc](https://ideas.repec.org/p/zbw/esprep/144570.html){: .btn .btn--info}
 {: .text-left}
 
 ### Credit crunches from occasionally binding bank borrowing constraints
