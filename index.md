@@ -72,7 +72,7 @@ Tom works on:
 ***Latest working paper, 2024***
 > Consumer demand places an upper bound on sales, not a lower bound. And yet, when we solve sticky price models (Calvo or menu-cost), we assume firms sell the entire quantity demanded at their price. This produces completely unreasonable behaviour, as firms with old prices end up selling at a price below their marginal cost. Instead, firms should ration demand to keep their marginal costs no greater than their price. We show in a continuous time New Keynesian (NK) model with idiosyncratic demand shocks that this produces drastically different results to the standard NK model. Whereas a standard sticky price model can never generate the jump in the price level we see following cleanly identified monetary shocks, the model with rationing can. Whereas a standard sticky price cannot match the flattening of the Phillips curve when output & inflation are low, the model with rationing does, and when output & inflation are high, the Phillips curve can become so steep it bends backwards. Whereas in standard sticky price models, the optimal inflation rate is always very close to zero, in models with rationing the optimal inflation rate can be substantial. The model with rationing also fixes many of the counter-intuitive properties of the standard NK model, such as the upper bound on inflation.
 
-[Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger} [Shorter slides](/assets/files/RationingUnderStickyPricesSlidesShort.pdf){: .btn .btn--danger}
+[Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
 ***Reject & resubmit, Quantitative Economics***
