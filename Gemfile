@@ -3,7 +3,8 @@ source "https://rubygems.org"
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 group :jekyll_plugins do
-  gem 'jekyll-include-cache', '~> 0.2.1'
+  gem "github-pages", "~> 231"
+  gem "jekyll-include-cache", '~> 0.2.1'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-gist', '~> 1.5'
@@ -11,7 +12,6 @@ group :jekyll_plugins do
   gem 'jemoji', '~> 0.13.0'
   gem "faraday", '~> 2.9', '>= 2.9.2'
   gem 'faraday-retry', '~> 2.2', '>= 2.2.1'
-  gem 'jekyll_picture_tag', '~> 2.0'
 end
 
 gem "tzinfo-data", '~> 1.2024', '>= 1.2024.1'
