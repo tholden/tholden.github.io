@@ -29,7 +29,7 @@ description              : "Personal website of Dr Tom D. Holden, researcher and
 url                      : "https://www.tholden.org"
 repository               : "tholden/tholden.github.io"
 teaser                   : "/assets/images/salt.jpg"
-logo                     : "/assets/images/bio-photo/200x200.jpg"
+logo                     : "/assets/images/bio-photo"
 masthead_title           : "Dr Tom D. Holden"
 breadcrumbs              : true
 comments:
