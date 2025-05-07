@@ -71,8 +71,8 @@ Tom works on:
 ## Current Working Papers
 
 ### Rationing under sticky prices
-***Latest working paper, 2024***
-> Following the Covid pandemic, the Suez Canal blockage and the Ukrainian war, many goods experienced stockouts and delivery delays. But if prices are flexible, then production cost increases pass through to prices, and all goods remain available. Only if prices are sticky might firms ration demand through stockouts or delivery delays, to avoid selling goods at a price below marginal cost. However, the standard assumption in solving sticky price models is that firms sell the entire quantity demanded at their price. This paper investigates the consequences of allowing firms to ration under sticky prices, in a continuous time model with idiosyncratic demand shocks and endogenous price rigidity. Rationing helps the model match empirical results from both micro & macro data. It produces a convex, backward bending Phillips curve, yet lower monetary non-neutrality and significantly higher optimal inflation.
+***Latest working paper, 2025***
+> If prices are sticky, following large shocks, firms would like to ration demand to avoid selling goods at a price below marginal cost. However, the standard assumption in solving sticky price models is that firms sell the entire quantity demanded at their price. This paper investigates the consequences of allowing firms to ration under sticky prices, in a continuous time model with idiosyncratic demand shocks and endogenous price rigidity. Allowing rationing massive reduces the welfare costs of positive trend inflation. The loss of variety caused by rationing becomes the main welfare cost of variations in inflation. Rationing helps the model match empirical results from both micro & macro data. It produces a convex, backwards-bending Phillips curve. While expansionary monetary policy increases observed real GDP, it decreases the welfare relevant output aggregator.
 
 [Working paper PDF](/assets/files/RationingUnderStickyPrices.pdf){: .btn .btn--danger} [Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger}
 
