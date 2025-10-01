@@ -74,7 +74,7 @@ Tom works on:
 ***Latest working paper, 2025***
 > If prices are sticky, following large shocks, firms would like to ration demand to avoid selling goods at a price below marginal cost. However, the standard assumption in solving sticky price models is that firms sell the entire quantity demanded at their price. This paper investigates the consequences of allowing firms to ration under sticky prices, in a continuous time model with idiosyncratic demand shocks and endogenous price rigidity. Allowing rationing massive reduces the welfare costs of positive trend inflation. The loss of variety caused by rationing becomes the main welfare cost of variations in inflation. Rationing helps the model match empirical results from both micro & macro data. It produces a convex, backwards-bending Phillips curve. While expansionary monetary policy increases the model’s analogue of observed real GDP, it decreases the welfare relevant output aggregator.
 
-[Working paper PDF](/assets/files/RationingUnderStickyPrices.pdf){: .btn .btn--danger} [Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger} [Short slides](/assets/files/RationingUnderStickyPricesSlidesShort.pdf){: .btn .btn--danger}
+[Working paper PDF](/assets/files/RationingUnderStickyPrices.pdf){: .btn .btn--danger} [Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger} [Short slides](/assets/files/RationingUnderStickyPricesSlidesShort.pdf){: .btn .btn--danger} [Video of presentation](https://youtu.be/HgOodRS1CpM?t=1020){: .btn .btn--inverse}
 
 ### Computation of solutions to dynamic models with occasionally binding constraints
 ***Reject & resubmit, Quantitative Economics***
