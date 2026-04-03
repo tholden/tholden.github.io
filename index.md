@@ -76,6 +76,12 @@ Tom works on:
 
 [Working paper PDF](/assets/files/RationingUnderStickyPrices.pdf){: .btn .btn--danger} [Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger} [Short slides](/assets/files/RationingUnderStickyPricesSlidesShort.pdf){: .btn .btn--danger} [Very short slides (for NBER)](/assets/files/RationingUnderStickyPricesSlidesVeryShort.pdf){: .btn .btn--danger} [Video of presentation](https://youtu.be/HgOodRS1CpM?t=1020){: .btn .btn--inverse}
 
+### Exact inflation targeting with inflation swaps
+***Latest working paper, 2026***
+> Central banks can eliminate future inflation uncertainty by intervening in two inflation swap markets simultaneously, leaving nominal rates to float freely. The first swap pays the difference between gross inflation and its contract rate; the second pays gross inflation times the difference between gross inflation and its contract rate. Setting both contract rates to the central bank's short-run inflation target guarantees that inflation hits this target with probability one, via Jensen's inequality. It does this without relying on dubious terminal conditions on inflation. With a time-varying target, this enables the robust implementation of near-optimal monetary policy.
+
+[Working paper PDF](/assets/files/ExactInflationTargeting.pdf){: .btn .btn--danger} [Slides (out of date)](/assets/files/ExactInflationTargetingWithInflationSwapsSlides.pdf){: .btn .btn--danger}
+
 ### Computation of solutions to dynamic models with occasionally binding constraints
 ***Reject & resubmit, Quantitative Economics***
 
@@ -92,12 +98,6 @@ Tom works on:
 [Co-author: Francois Gourio](https://sites.google.com/site/fgourio/home){: .btn .btn--primary} [Co-author: Matthew Rognlie](https://sites.northwestern.edu/rognlie/){: .btn .btn--primary}
 
 [Slides](/assets/files/CapitalHeterogeneitySlides.pdf){: .btn .btn--danger}
-
-### Exact inflation targeting with inflation swaps
-***Latest working paper, 2023***
-> Central banks can remove all uncertainty from future inflation by simultaneously intervening in two different inflation swap markets, leaving nominal rates to float freely. The first swap type returns gross inflation minus the contract rate. The second, returns gross inflation times gross inflation minus the contract rate. If the central bank sets both contract rates equal to the inflation target, then a Jensen’s inequality argument implies that inflation is at target with probability one. The central bank is able to fix two prices simultaneously as fixing just one would produce indeterminacy. Fixing both pins down inflation without invoking any dubious terminal conditions on inflation. With a time-varying target, this enables the central bank to robustly implement near-optimal policy.
-
-[Extended abstract PDF](/assets/files/ExactInflationTargetingWithInflationSwaps.pdf){: .btn .btn--danger} [Slides](/assets/files/ExactInflationTargetingWithInflationSwapsSlides.pdf){: .btn .btn--danger}
 
 ### Business cycles in space
 ***Latest working paper, 2020***
