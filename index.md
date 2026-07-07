@@ -81,6 +81,8 @@ Tom works on:
 > We identify monetary policy shocks by imposing that they produce a positive, monotonically declining path for nominal rates. We impose no restrictions on other variables, nor do we rely on external information.
   Nonetheless, this produces IRFs closely resembling those produced using high frequency instruments, with no price puzzle. We justify these restrictions by showing both that they are satisfied in a benchmark medium-scale DSGE model, and by showing that they are satisfied under optimal policy in simple models. Our shocks produce a large, immediate drop in the price level. Thus, the rapid response of prices to monetary shocks observed in recent studies is not an artefact of high frequency identification.
   
+[Co-author: Mu-Chun Wang](https://www.bundesbank.de/en/mu-chun-wang){: .btn .btn--primary}
+  
 [Slides](/assets/files/ShockinglySimpleMonetaryShocksSlides.pdf){: .btn .btn--danger}
 
 ### Exact inflation targeting with inflation swaps
