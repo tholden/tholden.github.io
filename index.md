@@ -76,6 +76,13 @@ Tom works on:
 
 [Working paper PDF](/assets/files/RationingUnderStickyPrices.pdf){: .btn .btn--danger} [Slides](/assets/files/RationingUnderStickyPricesSlides.pdf){: .btn .btn--danger} [Short slides](/assets/files/RationingUnderStickyPricesSlidesShort.pdf){: .btn .btn--danger} [Very short slides (for NBER)](/assets/files/RationingUnderStickyPricesSlidesVeryShort.pdf){: .btn .btn--danger} [Video of presentation](https://youtu.be/HgOodRS1CpM?t=1020){: .btn .btn--inverse}
 
+### Shockingly simple monetary shocks
+*** Latest slides, 2026***
+> We identify monetary policy shocks by imposing that they produce a positive, monotonically declining path for nominal rates. We impose no restrictions on other variables, nor do we rely on external information.
+  Nonetheless, this produces IRFs closely resembling those produced using high frequency instruments, with no price puzzle. We justify these restrictions by showing both that they are satisfied in a benchmark medium-scale DSGE model, and by showing that they are satisfied under optimal policy in simple models. Our shocks produce a large, immediate drop in the price level. Thus, the rapid response of prices to monetary shocks observed in recent studies is not an artefact of high frequency identification.
+  
+[Slides](/assets/files/ShockinglySimpleMonetaryShocksSlides.pdf){: .btn .btn--danger}
+
 ### Exact inflation targeting with inflation swaps
 ***Latest working paper, 2026***
 > Central banks can eliminate future inflation uncertainty by intervening in two inflation swap markets simultaneously, leaving nominal rates to float freely. The first swap pays the difference between gross inflation and its contract rate; the second pays gross inflation times the difference between gross inflation and its contract rate. Setting both contract rates to the central bank's short-run inflation target guarantees that inflation hits this target with probability one, via Jensen's inequality. It does this without relying on dubious terminal conditions on inflation. With a time-varying target, this enables the robust implementation of near-optimal monetary policy.
