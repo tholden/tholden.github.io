@@ -82,9 +82,7 @@ Tom works on:
   
 [Co-author: Mu-Chun Wang](https://www.bundesbank.de/en/mu-chun-wang){: .btn .btn--primary}
   
-[Slides](/assets/files/ShockinglySimpleMonetaryShocksSlides.pdf){: .btn .btn--danger}
-
-[Short slides](/assets/files/ShockinglySimpleMonetaryShocksSlidesShort.pdf){: .btn .btn--danger}
+[Slides](/assets/files/ShockinglySimpleMonetaryShocksSlides.pdf){: .btn .btn--danger} [Short slides](/assets/files/ShockinglySimpleMonetaryShocksSlidesShort.pdf){: .btn .btn--danger}
 
 ### Exact inflation targeting with inflation swaps
 ***Latest working paper, 2026***
